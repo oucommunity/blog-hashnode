@@ -3,7 +3,7 @@
 > Hey hey xin chào mọi người, đặc biệt là các bạn đã chính thức trở thành sinh viên ngành Ngôn ngữ Anh của trường O. Do đang rảnh nên sinh viên NNA K18 như mình sẽ viết sơ qua về ngành này cho các bạn K21 đỡ bỡ ngỡ. Mình không nhận tiền từ đơn vị nào đâu nên các bạn có thể hoàn toàn tin tưởng về bài viết này nhé.
 
 Trường O từ lâu đã nằm trong top đầu những trường đào tạo khối ngành Ngoại ngữ ở khu vực miền Nam, đứng chung với hai trường nổi tiếng khác là Nhân văn hay Sư phạm theo đánh giá của trang review giáo dục Edu2Review: 
-[https://edu2review.com/reviews/top-10-truong-dai-hoc-dao-tao-nganh-ngon-ngu-anh-ra-truong-khong-lo-that-nghiep-7267.html](Link)
+https://edu2review.com/reviews/top-10-truong-dai-hoc-dao-tao-nganh-ngon-ngu-anh-ra-truong-khong-lo-that-nghiep-7267.html
 
 > Vì vậy mà các bạn sắp học ngành NNA ở đây có thể yên tâm về chất lượng nhé.
 
@@ -41,7 +41,7 @@ Theo khung chương trình đào tạo của khoa Ngoại ngữ, sinh viên sau 
 
 - Với chuyên ngành Thương mại, các bạn học môn Kinh tế vi mô, Nguyên lí kế toán, Quan hệ công chúng, Quản trị học và Marketing căn bản. Ai ghét Toán thì bỏ chuyên ngành này đi mà học chuyên ngành khác nhé ^^
 
-Toàn cảnh học tập cho NNA: [http://v1.ou.edu.vn/nn/Pages/Chuong-trinh-dao-tao.aspx](Link)
+Toàn cảnh học tập cho NNA: http://v1.ou.edu.vn/nn/Pages/Chuong-trinh-dao-tao.aspx
 
 ## IV. THỜI GIAN HỌC & HỌC PHÍ
 
@@ -49,7 +49,7 @@ Toàn cảnh học tập cho NNA: [http://v1.ou.edu.vn/nn/Pages/Chuong-trinh-dao
 - 36 triệu/năm cho CLC và 21.5 triệu/năm cho đại trà
 
 **Link học phí từ trường: **
-[http://tuyensinh.ou.edu.vn/hoc-phi-du-kien-nam-2020-2021](Link)
+http://tuyensinh.ou.edu.vn/hoc-phi-du-kien-nam-2020-2021
 
 
 ## V. DỊCH VỤ
