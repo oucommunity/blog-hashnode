@@ -27,7 +27,7 @@
 
 🔗 Link web tính điểm: https://oucommunity.vercel.app/tinh-diem-xet-tuyen
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524212905/SBCQU4UYL.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655571796600/JX70LqqP3.png align="left")
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524222975/6G3nkapBk.png align="left")
 
