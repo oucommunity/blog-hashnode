@@ -1,4 +1,4 @@
-## 📢 [THÔNG BÁO] Đăng ký tài khoản trên hệ thống quản lý thi của Bộ GD&ĐT (đợt bổ sung) dành cho thí sinh tự do đã bỏ lỡ đợt đăng ký trước ngày 13/05
+## 📢 Đăng ký tài khoản trên hệ thống quản lý thi của Bộ GD&ĐT (đợt bổ sung) dành cho thí sinh tự do đã bỏ lỡ đợt đăng ký trước ngày 13/05
 
 ⌚ **Thời gian mở đăng ký: **Từ ngày 12/07 đến ngày 18/07
 
