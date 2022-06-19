@@ -15,7 +15,7 @@
 - Ngược lại, số lượng tuy ít nhưng điểm số chất lượng thì vẫn rớt như thường.
 - Nên tham khảo điểm các năm trước + cúng tâm linh hoặc chọn ngành sao cho phù hợp với điểm số của mình
 
-# Hướng dẫn sử dụng công cụ tính điểm
+### Hướng dẫn sử dụng công cụ tính điểm
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524179834/mjiAOlOnB.png align="left")
 
