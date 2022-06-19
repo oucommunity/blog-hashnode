@@ -1,4 +1,4 @@
-## Cơ Sở Học Tập 02 Mai Thị Lựu
+## Review Cơ sở 02 Mai Thị Lựu
 
 ✌️** Xin chào các bạn sinh viên K21 Khoa Quản Trị Kinh Doanh Đại Học Mở TP. HCM️ !**
 
