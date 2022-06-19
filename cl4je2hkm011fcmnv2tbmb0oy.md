@@ -21,7 +21,6 @@ Bộ Giáo dục & Đào tạo đã đề rõ mốc thời gian cụ thể dành
 📌 Thí sinh tự do nộp hồ sơ tại các trung tâm giáo dục thường xuyên hoặc phòng giáo dục quận/huyện nơi thuận tiện nhất cho thí sinh.
 
 ---
-
 ❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
 
 👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: **https://www.facebook.com/groups/oumembers**
