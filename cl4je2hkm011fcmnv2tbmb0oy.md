@@ -1,4 +1,6 @@
-## 📢 Đăng ký tài khoản trên hệ thống quản lý thi của Bộ GD&ĐT (đợt bổ sung) dành cho thí sinh tự do đã bỏ lỡ đợt đăng ký trước ngày 13/05
+## Đăng ký tài khoản trên hệ thống quản lý thi của Bộ GD & ĐT (đợt bổ sung) dành cho thí sinh tự do đã bỏ lỡ đợt đăng ký trước ngày 13/05
+
+Bộ Giáo dục & Đào tạo đã đề rõ mốc thời gian cụ thể dành cho những thí sinh tự do chưa đăng ký vào hệ thống, thí sinh vui lòng xem kỹ mốc thời gian và hướng dẫn chuẩn bị hồ sơ và nộp để được cấp tài khoản.
 
 ⌚ **Thời gian mở đăng ký: **Từ ngày 12/07 đến ngày 18/07
 
@@ -8,9 +10,9 @@
 
 ### I. Hướng dẫn đăng ký
 
-👉 Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT: https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt
+👉 Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD & ĐT: [Nhấn vào đây để đọc hướng dẫn](https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt)
 
-### II. CÁCH THỨC NỘP HỒ SƠ
+### II. Cách thức nộp hồ sơ
 
 📌 Thí sinh tự do đăng ký dự thi và đăng ký xét công nhận tốt nghiệp trung học phổ thông (nếu có) trực tiếp tại đơn vị đăng ký dự thi do Sở Giáo dục và Đào tạo quy định.
 
