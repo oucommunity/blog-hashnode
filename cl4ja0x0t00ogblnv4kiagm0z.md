@@ -1,6 +1,6 @@
 ## Góc nhìn về Đại học Mở từ 1 sinh viên năm nhất
 
-## GỌI OU LÀ NHÀ - VÌ NƠI ĐÂY MÌNH CẢM THẤY ĐƯỢC CHỞ CHE
+### GỌI OU LÀ NHÀ - VÌ NƠI ĐÂY MÌNH CẢM THẤY ĐƯỢC CHỞ CHE
 
 Hi vọng với bài chia sẻ này sẽ phần nào giúp các bạn tự tin vào quyết định của mình, tin vào ngôi nhà mà bạn sẽ sắp đặt chân đến - HCMCOU.
 
@@ -10,7 +10,7 @@ Trong số những trường mình xét, có HCMCOU - Một ngôi trường mà 
 
 Nhưng với mình, muốn biết được bên trong một tổ chức đó như thế nào thì phải nhìn vào những người bên trong tổ chức đó.** CHẲNG CÓ MỘT AI CÓ THỂ HỌC HẾT TẤT CẢ CÁC TRƯỜNG ĐỂ ĐI REVIEW CHO MÌNH HẾT. **Nên là mình cũng mặc kệ bao lời dèm pha, lội ngược dòng để đánh đổi được cảm giác tự hào về chính ngôi trường mình đang học ở thời điểm hiện tại.
 
-## VẬY TẠI SAO MÌNH CÓ THỂ BỎ QUA NHỮNG Ý KIẾN TRÁI CHIỀU ĐỂ HỌC OU MÀ KHÔNG PHẢI LÀ NHỮNG TRƯỜNG KHÁC ?
+### VẬY TẠI SAO MÌNH CÓ THỂ BỎ QUA NHỮNG Ý KIẾN TRÁI CHIỀU ĐỂ HỌC OU MÀ KHÔNG PHẢI LÀ NHỮNG TRƯỜNG KHÁC ?
 
 Có bạn nói là do mình rớt, đúng. Mình rớt UEH nên mình không học, nhưng các trường khác mình xét đều đỗ hết. Nên là nói mình rớt nên mới học OU nó chỉ đúng 10% thôi (do mình xét tận 10 trường =))))
 
@@ -54,4 +54,12 @@ Cuối cùng, hy vọng các bạn có lựa chọn vào OU muốn có những c
 
 Bài viết này không nhằm công kích bất kỳ cá nhân hay tổ chức nào
 
-Cre: Nguyễn Quang Hà
+Cre: Nguyễn Quang Hà - Sinh viên Đại học Mở Tp.HCM - HCMCOU
+
+---
+
+❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
+
+👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: **https://www.facebook.com/groups/oumembers**
+
+---
