@@ -1,6 +1,8 @@
-## 🎓 Một Số Kinh Nghiệm Đạt Học Bổng Khuyến Khích Học Tập🎓
+## Một Số Kinh Nghiệm Đạt Học Bổng Khuyến Khích Học Tập
 
-👋 Chào các thành viên của đại gia đình Mở :> Nay là ngày Sài Gòn mở cửa lại rồi. Ngẫm nghĩ trong 4 tháng qua, chủ thớt bài post này trụ nổi tài chính cũng nhờ một phần từ học bổng của trường í. Ngoài số tiền rủng rỉnh mà học bổng mang tới, sinh viên chúng mình sẽ có động lực học tập ở từng kỳ và cơ hội trau chuốt điểm trung bình tích lũy (GPA) hơn. Bài post này viết chủ yếu chia sẻ đến các bạn K21, song đó là K20, 19 và 18 có thể tham khảo, nên tớ (K17) xin phép được xưng “chị” cho gần gũi với các bạn nhé.
+👋 Chào các thành viên của đại gia đình Mở :> Nay là ngày Sài Gòn mở cửa lại rồi. Ngẫm nghĩ trong 4 tháng qua, chủ thớt bài post này trụ nổi tài chính cũng nhờ một phần từ học bổng của trường í. Ngoài số tiền rủng rỉnh mà học bổng mang tới, sinh viên chúng mình sẽ có động lực học tập ở từng kỳ và cơ hội trau chuốt điểm trung bình tích lũy (GPA) hơn. 
+
+Bài post này viết chủ yếu chia sẻ đến các bạn K21, song đó là K20, 19 và 18 có thể tham khảo, nên tớ (K17) xin phép được xưng “chị” cho gần gũi với các bạn nhé.
 
 Chị là Diệu Nhân, K17 chuyên ngành Phương pháp Giảng dạy Tiếng Anh, ngành Ngôn Ngữ Anh, khoa Ngoại Ngữ. Sau một số kỳ được nhận học bổng khuyến khích học tập (HBKKHT) của Khoa, chị đúc kết được một số điều cần lưu ý khi bản thân đặt ra mục tiêu đạt học bổng ở từng kỳ học. 
 
@@ -10,19 +12,21 @@ Thực ra thì từ lúc mới là tân sinh viên, chị không nghĩ rằng m�
 
 Chị sẽ không gọi là “bí kíp” hay “tips” vì thực ra không có một con đường tắt nào để có được học bổng mà không nỗ lực cả. Tuy vậy, đây là mục chia sẻ kinh nghiệm cá nhân để các em tham khảo, chị không đưa ra công thức chung, nên nếu không thấy phù hợp với bản thân thì đừng ngại thử cách khác nhé.
 
-# I. TÌM HIỂU CÁC YẾU TỐ ĐỂ CÓ CƠ HỘI ĐƯỢC NHẬN HBKKHT
+### I. TÌM HIỂU CÁC YẾU TỐ ĐỂ CÓ CƠ HỘI ĐƯỢC NHẬN HBKKHT
 
 Hiểu biết về học bổng là bước đầu tiên để tăng cơ hội nắm học bổng trong tay. Các em có thể xem chi tiết đối tượng, điều kiện, mức HBKKHT… ở đây nhen:
+
 - HBKKHT Đại học chính quy: https://ou.edu.vn/hocbong/hbkhhtdhcq/
 - HBKKHT Đại học chính quy Khoa Đào tạo đặc biệt: https://ou.edu.vn/hocbong/hbkkhtdtdb/
 
 Nhìn chung thì 2 loại này tương tự nhau. Mình sẽ chú ý những điều sau đây:
-### 1. Xếp loại học bổng (tiêu chí ưu tiên 1) 
+
+#### 1. Xếp loại học bổng (tiêu chí ưu tiên 1) 
 
 - Xuất sắc (100% học phí), giỏi (70%), khá (50%)
 - Xét cả điểm trung bình và điểm rèn luyện.
 
-### 2. Điểm trung bình học kỳ thang điểm 4.0 (ưu tiên 2) loại:
+#### 2. Điểm trung bình học kỳ thang điểm 4.0 (ưu tiên 2)
 
   - Xuất sắc (3,60 – 4,00)
   - Giỏi (3,20 – 3,59)
@@ -30,7 +34,7 @@ Nhìn chung thì 2 loại này tương tự nhau. Mình sẽ chú ý những đi
   
 Tuy nhiên muốn an toàn thì nên đặt mục tiêu 3.20 trở lên hen.
 
-### 3. Điểm rèn luyện (ưu tiên cuối cùng) loại:
+#### 3. Điểm rèn luyện (ưu tiên cuối cùng)
 
   - Xuất sắc (90-100/100 điểm)
   - Giỏi (80-89)
@@ -38,15 +42,15 @@ Tuy nhiên muốn an toàn thì nên đặt mục tiêu 3.20 trở lên hen.
 
 > 1 năm có 2 đợt xét điểm rèn luyện: [HK3 năm trước + HK1 năm nay] và [HK2], nhưng có tới 3 đợt xét HB tương ứng với 3 học kỳ, nên các bạn đừng bỏ học kỳ 3 nha, vừa có cơ hội có học bổng mà còn tránh bị trễ môn.
 
-### 4. Đăng ký đủ môn học trong chương trình học ở học kỳ đó. 
+#### 4. Đăng ký đủ môn học trong chương trình học ở học kỳ đó
 
 Giờ các em có thể tham khảo chương trình học trực tiếp trong tiện ích sinh viên của mình í. Chú ý xem chương trình học thật kỹ nhé.
 
-### 5. Không rớt môn nào (dưới 4đ).
+#### 5. Không rớt môn nào (dưới 4đ)
 
-### 6. Các môn học vượt, trả nợ môn, học lại sẽ không được tính xét học bổng ở học kỳ đang xét.
+#### 6. Các môn học vượt, trả nợ môn, học lại sẽ không được tính xét học bổng ở học kỳ đang xét
 
-### 7. Điểm thang 10 quy qua thang 4. 
+#### 7. Điểm thang 10 quy qua thang 4
 
 Các em nên tính trước để điểm môn này hụt thì đầu tư cho môn khác để bù trừ qua:
 
@@ -61,7 +65,7 @@ Lần đầu tiên chị bị mất học bổng là do không biết điểm r�
 
 Tùy vào học phí của từng kỳ học và tổng số sinh viên trong ngành/chuyên ngành thì số sinh viên được nhận HB sẽ khác nhau, mức tiền nhận cũng sẽ khác nhau qua từng kỳ. Vậy nên nhiều khi mình đủ điều kiện, nhưng vì giới hạn số lượng được nhận nên xu cà na bị cắt mất.
 
-# II. “NẮM THÓP” CÁC MÔN HỌC
+### II. “NẮM THÓP” CÁC MÔN HỌC
 
 Mỗi môn đều có đề cương môn học, thường được đăng tải trên website của các Khoa. Việc đọc đề cương trước kỳ học mới sẽ giúp các em có cái nhìn tổng quát về môn mình sắp học, và các cách thức đánh giá kiểm tra mà giảng viên (có thể) áp dụng khi học.
 Một môn thường có nhiều đợt đánh giá khác nhau qua làm nhóm thuyết trình, làm dự án, viết luận, làm trắc nghiệm… và phần trăm điểm quá trình trong lớp của em sẽ được chia nhỏ theo mỗi đợt tính điểm (ví dụ thuyết trình 40%, làm trắc nghiệm 30%, bài tập online 20%, điểm danh 10% chẳng hạn). 
@@ -72,7 +76,7 @@ Hiểu được điểm quá trình 1 môn sẽ giúp em dàn sức mình ra, v�
 
 Sau khi xâu chuỗi được các kiến thức với nhau thì nhiều khi chị cảm ra được một số “quy luật”, lúc này quá trình nhớ và hiểu nội dung môn sẽ dễ dàng và mượt hơn. Chị là kiểu người logician (INTP theo MBTI test) nên thích học qua quy luật, khung sườn mình tự rút ra. Em có thể tự tìm hiểu xu hướng học của mình mà chọn một cách học phù hợp nhé.
 
-# III. CHĂM CHỈ ĐÚNG CÁCH
+### III. CHĂM CHỈ ĐÚNG CÁCH
 
 Sau khâu nắm nội dung thì việc ôn tập rất quan trọng, nhất các thời điểm kề cận các kỳ kiểm tra đánh giá đòi hỏi kiến thức sâu và thi tập trung. Thường kỳ thi tập trung cuối kỳ chiếm 30-40% điểm môn học (điểm môn học gồm điểm quá trình và điểm cuối kỳ tính theo phần trăm), nên có thể kéo điểm môn lên hoặc xuống chỉ sau một bài thi. Trước mỗi kỳ thi/ kiểm tra, nên lên lịch ôn sẵn trong tuần hoặc trong vài tuần nhen. 
 
@@ -84,7 +88,7 @@ Mặc dù chị được thầy cô đánh giá là khá chăm chỉ trên lớp
 
 Nhớ thường xuyên cập nhật điểm môn học sau thi nhé, để có sai sót thì mình còn có thời gian xin phúc khảo điểm.
 
-# IV. BIẾT MÌNH Ở ĐÂU GIỮA ĐÁM ĐÔNG
+### IV. BIẾT MÌNH Ở ĐÂU GIỮA ĐÁM ĐÔNG
 
 Như đã đề cập trước đó, số lượng có hạn xét từ trên xuống nên không phải cứ đạt loại học bổng là được nhận. Những bạn xung quanh em là yếu tố ngoại cảnh có ảnh hưởng tới việc xét học bổng í, nhưng đôi khi em sẽ không biết mình đang ở mức nào so với các bạn vì điểm không được public. 
 
@@ -94,7 +98,7 @@ Bảng điểm gốc đa phần được đăng tải sau khi thi học kỳ kh�
 
 Ngoài ra trang này còn dùng để đối chiếu điểm trên tienichsv và điểm do thầy cô ghi nhận vào bảng điểm, để quyết định có nên phúc khảo điểm hay không nếu có. Điều quan trọng cần nhắc lại là không sử dụng trang web này để public điểm của người khác khi chưa có sự đồng ý nhen.
 
-# V. NHẬN HỌC BỔNG THÔI
+### V. NHẬN HỌC BỔNG THÔI
 
 Nếu đã nhắm được mình có cơ hội nhận được HBKKHT, thì theo dõi trên page của Khoa hoặc chỗ thông báo học bổng ở website của Khoa em nhen. Sẽ có một đợt học bổng dự kiến và sau đó là danh sách chính thức, nên nếu em thấy mình đủ điều kiện nhưng chưa có tên trong danh sách dự kiến thì có thể gửi form xin xét. Nếu qua khoảng thời gian cho phép nhưng em chưa kịp gửi thông tin thì sẽ bị loại rất đáng tiếc. 
 
@@ -119,3 +123,11 @@ Ai đọc tới đây xứng đáng nhận 10 kỳ học bổng 👉👈 Hổng 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655522410776/MFM80YsFS.png align="center")
 
 Cre: Diệu Nhân - Sinh viên Đại học Mở Tp.HCM - HCMCOU
+
+---
+
+❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
+
+👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: **https://www.facebook.com/groups/oumembers**
+
+---
