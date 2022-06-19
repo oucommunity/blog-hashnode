@@ -6,11 +6,11 @@
 
 ---
 
-## I. Hướng dẫn đăng ký
+### I. Hướng dẫn đăng ký
 
 👉 Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT: https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt
 
-## II. CÁCH THỨC NỘP HỒ SƠ
+### II. CÁCH THỨC NỘP HỒ SƠ
 
 📌 Thí sinh tự do đăng ký dự thi và đăng ký xét công nhận tốt nghiệp trung học phổ thông (nếu có) trực tiếp tại đơn vị đăng ký dự thi do Sở Giáo dục và Đào tạo quy định.
 
