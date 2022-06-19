@@ -37,6 +37,7 @@ Nên nhớ rằng, xét tuyển bằng điểm thi THPT sẽ là cơ hội cuố
 Chúng ta 18 tuổi rồi, đủ trưởng thành và chính chắn để nghiêm túc suy nghĩ về tương lai của chính chúng ta! Hy vọng mọi người sẽ đưa ra quyết định tốt nhất cho chính mình.
 
 ---
+
 ❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
 
 👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: **https://www.facebook.com/groups/oumembers**
