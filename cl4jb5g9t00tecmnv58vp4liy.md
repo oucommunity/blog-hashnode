@@ -1,4 +1,4 @@
-## Share template kho tài liệu tiếng anh tự học
+## Chia sẻ kho tài liệu tiếng anh tự học
 
 > Template này là 1 bộ sưu tập tài liệu anh văn tự học như toeic, ielts, ngữ pháp, phát âm, truyện tranh song ngữ, giao tiếp, bài báo...
 
@@ -41,6 +41,14 @@ Truy cập template để đọc hướng dẫn chi tiết
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655522029975/EHpIQxmIt.png align="center")
 
-**Link template:** https://thanhnamnguyen.notion.site/5872787ac81747d69ccf49cc501480f6
+**Link template:** [Nhấn vào đây !](https://thanhnamnguyen.notion.site/5872787ac81747d69ccf49cc501480f6)
 
 Chúc các bạn học tốt (๑˃̵ᴗ˂̵)و
+
+---
+
+❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
+
+👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: **https://www.facebook.com/groups/oumembers**
+
+---
