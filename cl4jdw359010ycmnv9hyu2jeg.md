@@ -24,7 +24,8 @@ https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/huong-dan-ho-so-tuyen-sinh/
 📌 Hãy suy nghĩ ngành nghề mình chọn sao cho chắc chắn nhất, ngành nghề mình thực sự thích nó. Vì nếu các bạn chọn sai, bạn phải mất 1 năm để có thể chuyển ngành lại được, vừa mất thời gian, tiền bạc, công sức học tập suốt 1 năm qua. Bên cạnh đó là điều kiện gia đình, sức học của bản thân.
 
 Tham khảo ngành - chuyên ngành - việc làm - học phí - chương trình đào tạo mà bạn dự định sẽ theo học tại
-🔗 Link: [https://oucommunity.hashnode.dev/gioi-thieu-nganh-chuyen-nganh-dao-tao-co-hoi-viec-lam-o-truong-dh-mo-tphcm](Link)
+
+🔗 Link: https://oucommunity.hashnode.dev/gioi-thieu-nganh-chuyen-nganh-dao-tao-co-hoi-viec-lam-o-truong-dh-mo-tphcm
 
 # III. HÃY CHỌN TỔ HỢP XÉT TUYỂN 1 CÁCH THÔNG MINH ?
 
