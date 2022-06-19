@@ -1,6 +1,6 @@
 ## Các giấy tờ cần có trong hồ sơ
 
-# I. Lưu ý
+## I. Lưu ý
 
 - Bìa hồ sơ phải ghi rõ "Hồ sơ nhập học + Họ và tên Tân SV + Số CMND/CCCD)".
 
@@ -10,7 +10,7 @@
 
 > Các bước chỉ thực hiện khi đã trúng tuyển và đã nhập hồ sơ tuyển sinh trực tuyến
 
-# II. Các giấy tờ cần chuẩn bị
+## II. Các giấy tờ cần chuẩn bị
 
 ### 1. Giấy chứng nhận kết quả thi THPT năm 2022 (bản chính - Bắt buộc đối với thí sinh tham gia kỳ thi Tốt nghiệp THPT 2022, bao gồm thí sinh tự do có đăng ký tham dự kỳ thi năm nay)
 
@@ -40,8 +40,7 @@
 
 ### 7. Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo (các giấy tờ xác nhận đối tượng và khu vực ưu tiên, hộ khẩu...). Bản sao/ photo
 
-Link minh chứng: http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021 công chứng
-
+Link minh chứng: http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021
 > Lưu ý: Các giấy tờ tại mục 2, 5, 6, 7 là bản sao y chứng thực.
 
 ### 8. 03 ảnh màu 3x4 chụp trong vòng 6 tháng ghi rõ thông tin cá nhân sau ảnh (mã sinh viên, họ và tên);
@@ -70,6 +69,12 @@ Link minh chứng: http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tie
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526295734/AbB0mWfNF.png align="left")
 
+---
+❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
+
+👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: **https://www.facebook.com/groups/oumembers**
+
+---
 
 
 
