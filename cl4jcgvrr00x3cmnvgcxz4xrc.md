@@ -1,4 +1,4 @@
-## 📲 Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)
+## 📲 Tính điểm xét tuyển học bạ THPT
 
 🔗 Link web tính điểm: https://oucommunity.vercel.app/tinh-diem-xet-tuyen
 
@@ -41,3 +41,9 @@
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524262597/x9s8BlhoN.png align="left")
 
+---
+❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
+
+👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: **https://www.facebook.com/groups/oumembers**
+
+---
