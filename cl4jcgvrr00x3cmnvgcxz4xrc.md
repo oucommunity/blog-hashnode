@@ -2,7 +2,7 @@
 
 Công cụ tính điểm xét tuyển học bạ THPT, giúp bạn tính toán 1 cách dễ dàng, đơn giản, không quá khó khăn.
 
-🔗 Link web tính điểm: https://oucommunity.vercel.app/tinh-diem-xet-tuyen
+🔗 Link web tính điểm: https://oucommunity.dev/tinh-diem-xet-tuyen
 
 🔗 Hướng dẫn đăng ký xét tuyển online: [Nhấn vào đây !](https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online)
 
