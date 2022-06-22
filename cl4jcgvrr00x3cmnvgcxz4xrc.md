@@ -18,7 +18,7 @@ Công cụ tính điểm xét tuyển học bạ THPT, giúp bạn tính toán 1
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524197641/YFXaZQT2x.png align="left")
 
-🔗 Link web tính điểm: https://oucommunity.vercel.app/tinh-diem-xet-tuyen
+🔗 Link web tính điểm: https://oucommunity.dev/tinh-diem-xet-tuyen
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655571796600/JX70LqqP3.png align="left")
 
