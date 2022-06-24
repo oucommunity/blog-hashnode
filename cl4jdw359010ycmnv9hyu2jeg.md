@@ -12,11 +12,11 @@ Vì thế nên không cần phải vội để đăng ký liền, đợi xem hư
 
 ### II. Đọc kỹ hướng dẫn đăng ký xét tuyển
 
-⚡ Phương thức xét học bạ 3 năm THPT: [Nhấn vào đây !](https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt)
+⚡ Phương thức xét học bạ 3 năm THPT: [Nhấn vào đây !](https://sotaytuyensinh.oucommunity.dev/huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt)
 
-⚡ Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ: [Nhấn vào đây !](https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu)
+⚡ Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ: [Nhấn vào đây !](https://sotaytuyensinh.oucommunity.dev/huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu)
 
-⚡ Phương thức ưu tiên học sinh giỏi: [Nhấn vào đây !](https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi)
+⚡ Phương thức ưu tiên học sinh giỏi: [Nhấn vào đây !](https://sotaytuyensinh.oucommunity.dev/huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi)
 
 ❗ Lưu ý: 
 - PT HSG là HSG 3 năm cấp 3 (tính 5 học kỳ, trừ HK1 năm 12)
@@ -26,19 +26,19 @@ Vì thế nên không cần phải vội để đăng ký liền, đợi xem hư
 
 Hãy suy nghĩ ngành nghề mình chọn sao cho chắc chắn nhất, ngành nghề mình thực sự thích nó. Vì nếu các bạn chọn sai, bạn phải mất 1 năm để có thể chuyển ngành lại được, vừa mất thời gian, tiền bạc, công sức học tập suốt 1 năm qua. Bên cạnh đó là điều kiện gia đình, sức học của bản thân.
 
-👉 Tham khảo ngành - chuyên ngành - việc làm - học phí - chương trình đào tạo mà bạn dự định sẽ theo học: [Nhấn vào đây !](https://oucommunity.hashnode.dev/gioi-thieu-nganh-hoc)
+👉 Tham khảo ngành - chuyên ngành - việc làm - học phí - chương trình đào tạo mà bạn dự định sẽ theo học: [Nhấn vào đây !](https://tintuc.oucommunity.dev/gioi-thieu-nganh-hoc)
 
 ### IV. Tham khảo điểm các năm trước
 
 🙇‍♂️ Nên tham khảo điểm các năm trước để xem điểm của mình có đủ hoặc trong khoảng **"ổn định"** để xét hay không, nhớ đọc kỹ các lưu ý ở trong bài viết **"điểm chuẩn các năm"**.
 
-👉 Xem điểm chuẩn các năm trước: [Nhấn vào đây !](https://oucommunity.hashnode.dev/diem-chuan-cac-nam)
+👉 Xem điểm chuẩn các năm trước: [Nhấn vào đây !](https://tintuc.oucommunity.dev/diem-chuan-cac-nam)
 
 ### V. Hãy chọn tổ hợp 1 cách thông minh ?
 
 Hiện có rất nhiều tổ hợp của 1 ngành, bạn nên tính xem bạn thích ngành nào, sau đó coi thử ngành đó có bao nhiêu tổ hợp, tính thử mỗi tổ hợp xem tổ hợp nào có điểm số cao nhất => lựa chọn tổ hợp đó (dù bạn ban xã hội nhưng bạn có thể chọn xét học bạ ban tự nhiên 1 cách bình thường). Để ý những chỗ lưu ý như "môn hệ số 2", "tổ hợp c00 cao hơn các tổ hợp khác 1,5đ", cẩn thận tính sai những chỗ ấy.
 
-Nếu tính điểm khó khăn, bạn có thể vào [Website Tính điểm xét tuyển học bạ THPT](https://oucommunity.vercel.app/tinh-diem-xet-tuyen) để tính điểm, web sẽ tính giúp bạn điểm của toàn bộ ngành, tất cả tổ hợp của ngành đó => giúp bạn tính xem ngành bạn xét thì tổ hợp nào có điểm cao nhất => lấy điểm đó mà xét tuyển.
+Nếu tính điểm khó khăn, bạn có thể vào [Website Tính điểm xét tuyển học bạ THPT](https://oucommunity.dev/tinh-diem-xet-tuyen) để tính điểm, web sẽ tính giúp bạn điểm của toàn bộ ngành, tất cả tổ hợp của ngành đó => giúp bạn tính xem ngành bạn xét thì tổ hợp nào có điểm cao nhất => lấy điểm đó mà xét tuyển.
 
 Trường cho bạn xét 1 phương thức, tối đa 3 nguyện vọng, hãy tận dụng 3 nguyện vọng đó 1 các hợp lý.
 
@@ -72,6 +72,10 @@ Nhớ đọc kỹ **hướng dẫn đăng ký xét tuyển online** để bạn 
 
 ❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
 
-👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: **https://www.facebook.com/groups/oumembers**
+👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: [Tham gia ngay !](https://www.facebook.com/groups/oumembers)
+
+**🌐 Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
+
+**🌐 Website tổng hợp thông tin tuyển sinh: **https://www.oucommunity.dev/
 
 ---
