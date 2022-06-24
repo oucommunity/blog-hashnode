@@ -4,7 +4,7 @@ Công cụ tính điểm xét tuyển học bạ THPT, giúp bạn tính toán 1
 
 🔗 Link web tính điểm: https://oucommunity.dev/tinh-diem-xet-tuyen
 
-🔗 Hướng dẫn đăng ký xét tuyển online: [Nhấn vào đây !](https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online)
+🔗 Hướng dẫn đăng ký xét tuyển online: [Nhấn vào đây !](https://sotaytuyensinh.oucommunity.dev/huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online)
 
 ⚠ Lưu ý: Công cụ đã ráp sẵn công thức, việc của bạn là nhập điểm cả năm 10, 11 & hk1 năm 12 là xong.
 
