@@ -10,7 +10,7 @@ Bộ Giáo dục & Đào tạo đã đề rõ mốc thời gian cụ thể dành
 
 ### I. Hướng dẫn đăng ký
 
-👉 Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD & ĐT: [Nhấn vào đây để đọc hướng dẫn](https://ou-community.gitbook.io/so-tay-tuyen-sinh-ou/thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt)
+👉 Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD & ĐT: [Nhấn vào đây để đọc hướng dẫn](https://sotaytuyensinh.oucommunity.dev/thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt)
 
 ### II. Cách thức nộp hồ sơ
 
@@ -21,8 +21,13 @@ Bộ Giáo dục & Đào tạo đã đề rõ mốc thời gian cụ thể dành
 📌 Thí sinh tự do nộp hồ sơ tại các trung tâm giáo dục thường xuyên hoặc phòng giáo dục quận/huyện nơi thuận tiện nhất cho thí sinh.
 
 ---
+
 ❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
 
-👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: **https://www.facebook.com/groups/oumembers**
+👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: [Tham gia ngay !](https://www.facebook.com/groups/oumembers)
+
+**🌐 Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
+
+**🌐 Website tổng hợp thông tin tuyển sinh: **https://www.oucommunity.dev/
 
 ---
