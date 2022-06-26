@@ -1,10 +1,10 @@
 ## Đăng ký tài khoản trên hệ thống quản lý thi của Bộ GD & ĐT (đợt bổ sung) dành cho thí sinh tự do đã bỏ lỡ đợt đăng ký trước ngày 13/05
 
-> ⚠ Lưu ý: 
+> ❗ Lưu ý: 
 
->**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+>👉 **Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
 
->Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+>👉 Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
 
 ---
 
@@ -33,7 +33,7 @@ Bộ Giáo dục & Đào tạo đã đề rõ mốc thời gian cụ thể dành
 
 👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: [Tham gia ngay !](https://www.facebook.com/groups/oumembers)
 
-**🌐 Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
+**🌐 Trang tin tức Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
 
 **🌐 Website tổng hợp thông tin tuyển sinh: **https://www.oucommunity.dev/
 
