@@ -1,5 +1,13 @@
 ## Quân sự ở Lobita năm 2022
 
+> ❗ Lưu ý: 
+
+>👉 **Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>👉 Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 Chuyện là thấy có khoa sắp đi, nên chia sẻ ít kinh nghiệm. Mình vừa về hồi 29.4 sau 5 ngày học
 
 Đừng mang nhiều snack, đồ ăn (chiếm chỗ, vô đó mệt nên ăn hên xui lắm, gần như ăn rất ít luôn), MÀ HÃY MANG NHÌU QUẦN ÁO. Cái xào nó bé xíu mà 8 đứa, 1 đứa 4 5 cái móc là nghỉ phẻ, khỏi khô mà đồ còn hôi rình. Nhớ mang theo dây để cột rồi phơi ngoài lan cang cho nhanh khô. Tốt nhất mang 7 bộ, khỏi giặt, lời khuyên chân thành. Ai đời phơi từ trưa chủ nhật mà tối thứ 3 còn ẩm và hôi 😱
@@ -37,7 +45,7 @@ Nguồn: https://www.facebook.com/groups/oumembers/posts/1479757362440867/
 
 👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: [Tham gia ngay !](https://www.facebook.com/groups/oumembers)
 
-**🌐 Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
+**🌐 Trang tin tức Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
 
 **🌐 Website tổng hợp thông tin tuyển sinh: **https://www.oucommunity.dev/
 
