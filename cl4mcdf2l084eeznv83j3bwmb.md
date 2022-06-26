@@ -298,7 +298,7 @@ Nguồn: https://www.facebook.com/groups/oumembers/posts/1215120692237870/
 
 👉 Tham gia group **Sinh viên Đại học Mở Tp.HCM - HCMCOU** để biết thêm nhiều điều mới mẻ: [Tham gia ngay !](https://www.facebook.com/groups/oumembers)
 
-**🌐 Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
+**🌐 Trang tin tức Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
 
 **🌐 Website tổng hợp thông tin tuyển sinh: **https://www.oucommunity.dev/
 
