@@ -1,5 +1,13 @@
 ## Tính điểm xét tuyển học bạ THPT
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 Công cụ tính điểm xét tuyển học bạ THPT, giúp bạn tính toán 1 cách dễ dàng, đơn giản, không quá khó khăn.
 
 🔗 Link web tính điểm: https://oucommunity.dev/tinh-diem-xet-tuyen
