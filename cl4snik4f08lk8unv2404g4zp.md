@@ -1,5 +1,13 @@
 ## Kế hoạch đào tạo năm học 2022-2023
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 ### I. Thời gian học tập, nghỉ lễ, đkmh, mở/khoá mssv, đóng học phí ...
 ![Kế hoạch đào tạo năm học 2022-2023_page-0001.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1656055536536/x2NrUq1pb.jpg align="left")
 
