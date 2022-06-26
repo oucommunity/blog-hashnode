@@ -1,12 +1,18 @@
 ## Đăng ký tài khoản trên hệ thống quản lý thi của Bộ GD & ĐT (đợt bổ sung) dành cho thí sinh tự do đã bỏ lỡ đợt đăng ký trước ngày 13/05
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 Bộ Giáo dục & Đào tạo đã đề rõ mốc thời gian cụ thể dành cho những thí sinh tự do chưa đăng ký vào hệ thống, thí sinh vui lòng xem kỹ mốc thời gian và hướng dẫn chuẩn bị hồ sơ và nộp để được cấp tài khoản.
 
 ⌚ **Thời gian mở đăng ký: **Từ ngày 12/07 đến ngày 18/07
 
 📌 **Đối tượng: **Thí sinh đã tốt nghiệp THPT, trung cấp chưa có tài khoản đăng ký xét tuyển trên hệ thống của Bộ GD&ĐT
-
----
 
 ### Hướng dẫn đăng ký
 
