@@ -1,5 +1,13 @@
 ## Xác nhận nhập học là gì ?
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 Trong những năm gần đây, thí sinh xét tuyển được lựa chọn nhiều hình thức xét tuyển như xét tuyển bằng học bạ, điểm kì thi ĐGNL, UTXT, điểm thi kì thi THPTQG,... và một số hình thức khác.
 
 Tuy nhiên, thời gian nhập học của các phương thức trên đều có trước kết quả trúng tuyển bằng hình thức xét tuyển điểm thi THPTQG.
