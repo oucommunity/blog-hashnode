@@ -8,17 +8,13 @@ Bộ Giáo dục & Đào tạo đã đề rõ mốc thời gian cụ thể dành
 
 ---
 
-### I. Hướng dẫn đăng ký
+### Hướng dẫn đăng ký
 
-👉 Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD & ĐT: [Nhấn vào đây để đọc hướng dẫn](https://sotaytuyensinh.oucommunity.dev/thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt)
+- Thí sinh tải mẫu phiếu đăng ký thông tin cá nhân bên dưới và kê khai thông tin trên phiếu.
 
-### II. Cách thức nộp hồ sơ
+- Nộp phiếu tại điểm tiếp nhận (theo quy định và hướng dẫn của sở giáo dục và đào tạo nơi thí sinh thường trú) để nhận thông tin tài khoản phục vụ công tác tuyển sinh. 
 
-📌 Thí sinh tự do đăng ký dự thi và đăng ký xét công nhận tốt nghiệp trung học phổ thông (nếu có) trực tiếp tại đơn vị đăng ký dự thi do Sở Giáo dục và Đào tạo quy định.
-
-📌 Thí sinh thi lại trung học phổ thông có thể mua hồ sơ tại các nhà sách lớn trên cả nước hoặc phòng Giáo dục quận/huyện, trung tâm giáo dục thường xuyên hoặc trường trung học phổ thông cũ mà mình đã theo học.
-
-📌 Thí sinh tự do nộp hồ sơ tại các trung tâm giáo dục thường xuyên hoặc phòng giáo dục quận/huyện nơi thuận tiện nhất cho thí sinh.
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656217473827/puCtUzQvw.png align="left")
 
 ---
 
