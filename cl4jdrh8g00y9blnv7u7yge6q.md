@@ -1,5 +1,13 @@
 ## Điểm chuẩn các năm
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 Thông tin điểm chuẩn từng năm (điểm chuẩn xét học bạ THPT và xét thi THPTQG)
 
 ### I. Điểm chuẩn thi tốt nghiệp THPT
