@@ -1,5 +1,13 @@
 ## Chia sẻ kho tài liệu tiếng anh tự học
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 > Template này là 1 bộ sưu tập tài liệu anh văn tự học như toeic, ielts, ngữ pháp, phát âm, truyện tranh song ngữ, giao tiếp, bài báo...
 
 > Mình chỉ là người lượn lờ trên mạng rồi lưu tài liệu, nên không chắc là tài liệu nào hữu ích hay không. Vì thế mình có tạo thêm 1 cột là phần mô tả (description) các bạn hãy đọc nó trước khi download tài liệu về sử dụng.
