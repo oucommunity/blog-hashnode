@@ -1,5 +1,13 @@
 ## Review Cơ sở 371 Nguyễn Kiệm
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 Cơ sở học tập dành cho các ngành đại trà (trừ khoa Kinh tế và khoa Quản trị kinh doanh, 2 khoa này sẽ học ở 02 Mai Thị Lựu)
 
 👇 Xem review ở video bên dưới
