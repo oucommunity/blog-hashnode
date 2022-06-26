@@ -1,5 +1,13 @@
 ## Các giấy tờ cần chuẩn bị trong hồ sơ nhập học
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 Các giấy tờ dưới đây chỉ được phép nộp khi nhà Trường yêu cầu thí sinh nộp và thí sinh đó đã có kết quả trúng tuyển vào Trường Đại học Mở Tp.HCM.
 
 ### I. Những lưu ý khi nộp hồ sơ
