@@ -1,5 +1,13 @@
 ## Review Cơ sở 02 Mai Thị Lựu
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 ✌️** Xin chào các bạn sinh viên K21 Khoa Quản Trị Kinh Doanh Đại Học Mở TP. HCM️ !**
 
 ❓ Bạn đang thắc mắc Khoa QTKD OU học tại đâu? Điều gì khiến cho BA chúng ta thu hút rất nhiều sinh viên? Căn tin trường có gì để “lấp đầy” chiếc bụng đói của mình? Phòng học sẽ như thế nào?
