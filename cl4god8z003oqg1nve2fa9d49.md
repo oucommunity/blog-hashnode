@@ -1,5 +1,13 @@
 ## Review thi tiếng anh đầu vào
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 Post này là để truyền lại kinh nghiệm thi tiếng Anh đầu vào cho các ca sau 7h sáng nay (Thi này để giúp vô năm xếp lớp Tiếng Anh, có 10 lớp là từ cơ bản 1 đến cơ bản 5, và nâng cao 1 đến nâng cao 5, cứ 1 lớp vậy là 1tr5, nên bạn thi tốt thì sẽ được xếp ở lớp nâng cao 4,5 chỉ đóng 3tr cho cả 4 năm học).
 Với bài làm 4 test của mình lần lượt là
 - Test 1: 20/25
