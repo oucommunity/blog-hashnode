@@ -1,5 +1,13 @@
 ## Cần chuẩn bị gì trước khi đăng ký xét học bạ online ?
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 > Đây là những lưu ý & lời khuyên mà mình tích góp được từ các đợt tuyển sinh, hy vọng những lưu ý này giúp bạn tránh khỏi những sai lầm không đáng có !!!
 
 ### I. Để ý thời gian bắt đầu và kết thúc ?
