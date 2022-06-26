@@ -22,6 +22,8 @@ Bộ Giáo dục & Đào tạo đã đề rõ mốc thời gian cụ thể dành
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656217473827/puCtUzQvw.png align="left")
 
+👉 File phiếu đăng ký: [Nhấn vào đây để tải về !](https://drive.google.com/file/d/1ut36w7zBqSr7HsrrWD31ql_FVwJ2Qi7-/view?usp=sharing)
+
 📂 File công văn hướng dẫn tuyển sinh Bộ GD&ĐT: 
 [Nhấn vào đây để xem chi tiết !](https://drive.google.com/file/d/1kS1-tEz5oUhkRDjz2JXP1BvDtLI1XSCf/view?usp=sharing)
 
