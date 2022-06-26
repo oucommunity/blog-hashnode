@@ -1,5 +1,13 @@
 ## Ngành ngôn ngữ Anh tại Đại học Mở Tp.HCM
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 > Hey hey xin chào mọi người, đặc biệt là các bạn đã chính thức trở thành sinh viên ngành Ngôn ngữ Anh của trường O. Do đang rảnh nên sinh viên NNA K18 như mình sẽ viết sơ qua về ngành này cho các bạn K21 đỡ bỡ ngỡ. Mình không nhận tiền từ đơn vị nào đâu nên các bạn có thể hoàn toàn tin tưởng về bài viết này nhé.
 
 Trường O từ lâu đã nằm trong top đầu những trường đào tạo khối ngành Ngoại ngữ ở khu vực miền Nam, đứng chung với hai trường nổi tiếng khác là Nhân văn hay Sư phạm theo đánh giá của trang review giáo dục Edu2Review: 
