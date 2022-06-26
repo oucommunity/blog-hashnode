@@ -1,5 +1,13 @@
 ## Một Số Kinh Nghiệm Đạt Học Bổng Khuyến Khích Học Tập
 
+> ⚠ Lưu ý: 
+
+>**Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 👋 Chào các thành viên của đại gia đình Mở :> Nay là ngày Sài Gòn mở cửa lại rồi. Ngẫm nghĩ trong 4 tháng qua, chủ thớt bài post này trụ nổi tài chính cũng nhờ một phần từ học bổng của trường í. Ngoài số tiền rủng rỉnh mà học bổng mang tới, sinh viên chúng mình sẽ có động lực học tập ở từng kỳ và cơ hội trau chuốt điểm trung bình tích lũy (GPA) hơn. 
 
 Bài post này viết chủ yếu chia sẻ đến các bạn K21, song đó là K20, 19 và 18 có thể tham khảo, nên tớ (K17) xin phép được xưng “chị” cho gần gũi với các bạn nhé.
