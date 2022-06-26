@@ -1,5 +1,13 @@
 ## Review Quân sự khoa Ngoại Ngữ K20 - Tháng 3/2021
 
+> ❗ Lưu ý: 
+
+>👉 **Để bạn luôn cập nhật tin tức mới nhất**, mỗi khi vào trang web, bạn nên **ấn nút F5 hoặc nút tải lại trang** ở góc trên cùng bên trái **(nếu sử dụng máy tính, laptop)**. 
+
+>👉 Nếu bạn **sử dụng điện thoại** thì **tìm nút tải lại trang của trình duyệt bạn đang sử dụng**. Nếu không tải trang thì bạn sẽ **xem tin tức cũ (sẽ sai sót - nếu có cập nhật sau này).** Xin cảm ơn ❤
+
+---
+
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655698918711/5DINGc1qo.png align="left")
 
 👋 Xin chào mọi người!
