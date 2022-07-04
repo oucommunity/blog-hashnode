@@ -28,7 +28,7 @@ Công cụ tính điểm xét tuyển học bạ THPT, giúp bạn tính toán 1
 
 🔗 Link web tính điểm: https://oucommunity.dev/tinh-diem-xet-tuyen
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655571796600/JX70LqqP3.png align="left")
+![5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656915659231/NUbFA1lg1.png align="left")
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524222975/6G3nkapBk.png align="left")
 
@@ -39,6 +39,8 @@ Công cụ tính điểm xét tuyển học bạ THPT, giúp bạn tính toán 1
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524253955/Hm7Si_OGp.png align="left")
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524258226/5WgbfRAW0.png align="left")
+
+![11.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656915670471/jRw6E2imK.png align="left")
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524262597/x9s8BlhoN.png align="left")
 
