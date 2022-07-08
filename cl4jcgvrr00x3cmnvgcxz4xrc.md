@@ -8,7 +8,7 @@
 
 ---
 
-Công cụ tính điểm xét tuyển học bạ THPT, giúp bạn tính toán 1 cách dễ dàng, đơn giản, không quá khó khăn.
+👉 Công cụ tính điểm xét tuyển học bạ THPT, giúp bạn tính toán 1 cách dễ dàng, đơn giản, không quá khó khăn (Công thức tính điểm áp dụng cho xét học bạ và thi THPTQG) nên bạn có thể sài để áp dụng cho cả 2.
 
 🔗 Link web tính điểm: https://oucommunity.dev/tinh-diem-xet-tuyen
 
@@ -16,7 +16,22 @@ Công cụ tính điểm xét tuyển học bạ THPT, giúp bạn tính toán 1
 
 ⚠ Lưu ý: Công cụ đã ráp sẵn công thức, việc của bạn là nhập điểm cả năm 10, 11 & hk1 năm 12 là xong.
 
-### Hướng dẫn sử dụng công cụ tính điểm
+### I. Cách tính điểm thủ công
+
+👉 Thí sinh kiểm tra xem ngành xét gồm những môn nào, có hệ số 2 hay không. 
+
+- Nếu ngành bạn không có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
+
+- Nếu có môn nào hệ số 2 thì bạn áp dụng công thức** (môn 1 + môn 2 + môn 3 x2) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên **
+
+Ví dụ: 
+- Ngành CNTT xét tổ hợp toán lý hoá (A00), ngành này môn toán hệ số 2 nên ta tính (toán x2 + lý + hoá) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên
+
+- Ngành Du lịch xét tổ hợp toán văn anh, ngành này không có môn nào hệ số 2 nên chỉ cần (toán + văn + anh) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên
+
+👉 Cách tính thủ công này chỉ giúp bạn tính 1 tổ hợp duy nhất và khá tốn thời gian, công cụ bên dưới sẽ giúp bạn tính toàn bộ các tổ hợp, có thể biết được tổ hợp nào cao nhất, thấp nhất => Từ đó giúp bạn chọn được tổ hợp có lợi cho bạn
+
+### II. Hướng dẫn sử dụng công cụ tính điểm
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655524179834/mjiAOlOnB.png align="left")
 
