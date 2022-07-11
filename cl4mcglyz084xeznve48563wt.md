@@ -15,6 +15,9 @@
 - Chăn, ga, gối đệm, khăn tắm (bê cái giường đi quân sự cũng được)
 - 10 móc phơi đồ (số lượng móc tuỳ thuộc vào đồ dùng của bạn nha)
 - 1 quạt mini (thời gian sài tầm 4-6h để mát qua đêm vì buổi tối lúc ngủ vì rất hầm, chỉ có 4 bạn ở giường trên mát, 4 bạn dưới ít mát hơn, không thì trải chiếu nằm đất, mở cửa nhà vệ sinh ban đêm nữa thì thành cái sapa luôn :v )
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657553616807/dWEr-PsDK.png align="left")
+
 - 1 bộ đồ thể dục của trường để học GDTC
 - 2 áo thun (học buổi tối có thể mặc nếu thầy cô vui cmn tính, nếu k đc thì auto full set quân phục nha)
 - 2 bộ đồ ngủ (nên đem đầm ngủ mỏng cho dễ khô - mấy bạn nữ thôi nha, nam cũng đc, không thích cũng đc)
@@ -24,6 +27,11 @@
 - 1 bình giữ nhiệt (mua đá nhỏ dưới căn tin, đổ nước vào, r đem đi học)
 - 1 bịch bột giặt (loại nhỏ nhỏ thôi, đi có 18 ngày à đem gì lắm) + 20 gói dầu gội là oke
 - 2 bịch khăn giấy (lau chùi lặt vặt, đêm sài cũng tốt à nhen 😉)
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657553723687/zqf9wo51r.png align="left")
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657553729460/0akVXGCX9.png align="left")
+
 - 1 cuộn túi đựng rác (mỗi phòng có thùng rác rồi, đem túi bao lại để sau mỗi h thể dục buổi sáng, lên phòng dọn dẹp r gom lại đem vứt ở khu đổ rác)
 - 1 bịch khăn giấy ướt (để lau chiếu, giường gỗ lúc nhận phòng, nên mang theo cái nùi giẻ luôn cho tiện lau tiện giặt nếu có bị đổ nước uống, đồ ăn)
 - 1 găng tay che nắng để lúc học GDTC mặc đồ thể dục đỡ đen da tay.
@@ -34,6 +42,8 @@ Tất cả mọi đồ vật cá nhân phải bỏ trong vali lúc kiểm tra n�
 Nên đem 1 balo nhỏ vì lúc học sẽ mang theo đề cương, khẩu trang, nón, quạt mini, bình nước, k thì ôm tất đi học)
 
 Uống nước đá, sữa lạnh quen rồi thì sắm sẵn thùng xốp đựng đá nhỏ để mua đá của căn tin (không nên mua 5k mà nên mượn cái cốc big size mua 2 lần đá, mỗi lần 3k, gấp đôi bịch đá 5k căn tin bán =)))))). Cả phòng nên góp tiền quỹ để mỗi ngày mua 2 lần đá 6k để tối có nước lạnh mà uống. (không thì mạnh ai nấy mua)
+
+
 
 Căn tin có bán mì ly, mì gói nếu không ăn đc thì đem mì mình thích vô (miễn sao nhét vừa cái balo là đc)
 
@@ -46,6 +56,10 @@ Có bán bánh Ostar 7k, bánh quế 14k, Oishi, kem 12k và 19k tuỳ loại, n
 Khu A có wifi, khu B thì thua (nên đăng ký 4g, bắt wifi ngon thì ngồi bụi tre vừa mát vừa có ghế đá)
 
 Học GDTC phải có loa lớn để tập (mỗi 1 nhóm thì tầm 2 tiểu đội - tốt nhất 1 tiểu đội 1 cái để lúc trưa - lúc nghỉ ngơi trong phòng, bật lofi chill - nhớ bật nhỏ nhỏ đủ nghe trong phòng kẻo có người đi kiểm tra bị thu thì gắng mà chịu, bút chì màu + 10 tờ A4 để vẽ lại động tác của nhóm nhảy nhé, vẽ đẹp là 1 lợi thế đoá, học chế động tác or coi youtube làm theo)
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657553662187/D03bTicq8.png align="left")
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657553672057/t_d5jEoh5.png align="left")
 
 Học GDQP thì học lại băng bó, điều lệnh, lắp súng, học bò lết, ném lựu đạn, vào rừng, ra hồ ngắm cá (có ca hát đồ, học thầy Phương mới có nha, mấy thầy khác k biết :v)
 ĐỒ ĂN TRONG ĐÂY CŨNG TẠM (cái này tuỳ người nha, CANH TẠM ĐƯỢC, NẾU LÀ NGƯỜI KÉN ĂN THÌ NÊN MANG THEO GIA VỊ NHƯ CÁC LOẠI TƯƠNG (vì trong đó 18 ngày mà đúng 2combo nước tương + nước mém, recommend muối ớt xanh, tương ớt nhớ đem theo cho dễ ăn) ĐỂ ĂN CHUNG CHO ĐỠ DỞ. ĐÓNG hơn 1 củ tiền ăn nữa đó, tiền qs riêng k có kèm tiền ăn đâu, nên có gì thì ăn tuốt đi, cho đỡ phí tiền ăn thôi), sẽ có 1 người lên lịch đồ ăn hàng ngày, nên ai k thích ăn món gì thì alo tiểu đội trưởng, tđt sẽ nhắn cho người lên lịch hén. Nhưng theo số đông nha, chứ bạn thích ăn mà đa số k thích thì chịu cmn đi, hề hề hề :)) ), đồ ăn thì có bên ngoài nấu nên tui để ý họ đem đồ ăn sớm (chiều tui học thao trường tầm 2-3h thì xe chở đồ ăn đã vào r mà tầm 5h30 mới ăn, sáng thì tầm 9h hơn) nên đồ ăn nguội vl. Chỉ có cơm, bữa sáng ăn đồ nước thì nhà bếp mới nấu.
