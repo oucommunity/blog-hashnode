@@ -22,21 +22,21 @@ Các giấy tờ dưới đây chỉ được phép nộp khi nhà Trường yê
 
 #### 1. Giấy chứng nhận kết quả thi THPT năm 2022 
 
-**Bản chính** - Bắt buộc đối với thí sinh tham gia kỳ thi Tốt nghiệp THPT 2022, bao gồm thí sinh tự do có đăng ký tham dự kỳ thi năm nay)
+📌 **Bản chính** - Bắt buộc đối với thí sinh tham gia kỳ thi Tốt nghiệp THPT 2022, bao gồm thí sinh tự do có đăng ký tham dự kỳ thi năm nay)
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655525987129/AGNznruq7.png align="left")
 
 #### 2. Giấy chứng nhận tốt nghiệp trung học tạm thời
 
-Áp dụng đối với những thí sinh trúng tuyển ngay trong năm tốt nghiệp (2021) hoặc bằng tốt nghiệp trung học đối với những thí sinh đã tốt nghiệp năm 2020 trở về trước. 
+📌 Áp dụng đối với những thí sinh trúng tuyển ngay trong năm tốt nghiệp (2021) hoặc bằng tốt nghiệp trung học đối với những thí sinh đã tốt nghiệp năm 2020 trở về trước. 
 
-Những thí sinh nộp giấy chứng nhận tốt nghiệp tạm thời, đầu năm học sau phải xuất trình bản chính bằng tốt nghiệp trung học để đối chiếu kiểm tra;
+📌 Những thí sinh nộp giấy chứng nhận tốt nghiệp tạm thời, đầu năm học sau phải xuất trình bản chính bằng tốt nghiệp trung học để đối chiếu kiểm tra;
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526011146/0xqCWxT_I.png align="left")
 
 #### 3. Phiếu thông tin sinh viên trúng tuyển 
 
-Thí sinh in ra sau khi đăng ký nhập học trực tuyến.
+📌 Thí sinh in ra sau khi đăng ký nhập học trực tuyến.
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526026041/DrKd_xxV9.png align="left")
 
@@ -44,37 +44,43 @@ Thí sinh in ra sau khi đăng ký nhập học trực tuyến.
 
 #### 4. Phiếu đăng ký xét tuyển/ưu tiên xét tuyển 
 
-Thí sinh in ra từ thư xác nhận nộp hồ sơ xét tuyển của trường hoặc từ trang tra cứu. Hãy nhớ ký tên cuối tờ phiếu.
+📌 Thí sinh in ra từ thư xác nhận nộp hồ sơ xét tuyển của trường hoặc từ trang tra cứu 
+
+- Truy cập vào trang tra cứu -> tiến hành tra cứu -> ấn nút in phiếu
+
+- Vào mail Trường đã gửi khi đăng ký online -> ấn link in phiếu.
+
+❗ Hãy nhớ **ký tên cuối tờ phiếu** sau khi in.
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526048219/JIB6l0oui.png align="left")
 
 #### 5. Học bạ THPT
 
-**Học bạ 3 bản photo công chứng** - đầy đủ thông tin 3 năm học THPT (6 học kỳ).
+📌 **Học bạ 3 bản photo công chứng** - đầy đủ thông tin 3 năm học THPT (6 học kỳ).
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526092823/8_RmSVNJ7.png align="left")
 
 #### 6. Giấy khai sinh 
 
-Một (01) bản sao hoặc 1 bản photo công chứng.
+📌 Một (01) bản sao hoặc 1 bản photo công chứng.
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526121712/7WTG1d5Fh.png align="left")
 
 #### 7. Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo
 
-Các giấy tờ xác nhận đối tượng và khu vực ưu tiên, hộ khẩu... Bản sao hoặc bản photo công chứng
+📌 Các giấy tờ xác nhận đối tượng và khu vực ưu tiên, hộ khẩu... Bản sao hoặc bản photo công chứng
 
-[Các minh chứng xem tại đây !](http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021)
+👉 [Các minh chứng xem tại đây !](http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021)
 
 #### 8. 03 ảnh màu 3x4 
 
-Chụp trong vòng 6 tháng ghi rõ thông tin cá nhân sau ảnh (mã sinh viên, họ và tên.
+📌 Chụp trong vòng 6 tháng ghi rõ thông tin cá nhân sau ảnh (mã sinh viên, họ và tên.
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526199234/OdjpqtJ5U.png align="left")
 
 #### 9. Giấy chứng nhận đăng ký nghĩa vụ quân sự 
 
-Do Ban chỉ huy quân sự cấp Quận, Huyện cấp và giấy xác nhận đăng ký vắng mặt do Ban chỉ huy quân sự cấp Phường, Xã nơi cư trú cấp (đối với nam sinh viên);
+📌 Do Ban chỉ huy quân sự cấp Quận, Huyện cấp và giấy xác nhận đăng ký vắng mặt do Ban chỉ huy quân sự cấp Phường, Xã nơi cư trú cấp (đối với nam sinh viên);
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526216104/By68FHvaG.png align="left")
 
@@ -86,15 +92,15 @@ Do Ban chỉ huy quân sự cấp Quận, Huyện cấp và giấy xác nhận �
 
 #### 11. Biên lai đóng học phí 
 
-Biên lai đóng học phí học kỳ I, năm học 2021 – 2022 (bản in hoặc photo);
+📌 Biên lai đóng học phí học kỳ I, năm học 2021 – 2022 (bản in hoặc photo);
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526252836/MnuuR0AeS.png align="left")
 
 #### 12. Chứng chỉ Ngoại ngữ/Tin học đối với thí sinh được miễn thi Ngoại ngữ, Tin học;
 
-Bản sao hoặc bản photo công chứng
+📌 Bản sao hoặc bản photo công chứng
 
-Link tham khảo: [Nhấn vào đây !](http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc)
+👉 Link tham khảo: [Nhấn vào đây !](http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc)
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526290644/xRmsCPVPX.png align="left")
 
