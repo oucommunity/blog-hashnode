@@ -36,7 +36,7 @@ Các giấy tờ dưới đây chỉ được phép nộp khi nhà Trường yê
 
 #### 3. Phiếu thông tin sinh viên trúng tuyển 
 
-📌 Thí sinh in ra sau khi đăng ký nhập học trực tuyến.
+📌 Thí sinh in ra sau khi đăng ký nhập học trực tuyến (nhà Trường sẽ thông báo tiến hành đăng ký, thí sinh vui lòng đợi thông tin từ fanpage và website tuyển sinh của Trường).
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526026041/DrKd_xxV9.png align="left")
 
@@ -92,7 +92,7 @@ Các giấy tờ dưới đây chỉ được phép nộp khi nhà Trường yê
 
 #### 11. Biên lai đóng học phí 
 
-📌 Biên lai đóng học phí học kỳ I, năm học 2021 – 2022 (bản in hoặc photo);
+📌 Biên lai đóng học phí học kỳ I, năm học 2021 – 2022 (bản in hoặc photo, sau khi đăng ký nhập học tại Trường);
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655526252836/MnuuR0AeS.png align="left")
 
