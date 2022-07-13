@@ -12,15 +12,19 @@ Bộ Giáo dục & Đào tạo đã đề rõ mốc thời gian cụ thể dành
 
 ⌚ **Thời gian mở đăng ký: **Từ ngày 12/07 đến ngày 18/07
 
-📌 **Đối tượng: **Thí sinh đã tốt nghiệp THPT, trung cấp chưa có tài khoản đăng ký xét tuyển trên hệ thống của Bộ GD&ĐT
+📌 **Đối tượng: **Thí sinh đã tốt nghiệp THPT, trung cấp chưa có tài khoản đăng ký xét tuyển trên hệ thống của Bộ GD&ĐT (áp dụng cho 2k3 trở xuống)
 
-### Hướng dẫn đăng ký
+### I. Hướng dẫn đăng ký
 
 - Thí sinh tải mẫu phiếu đăng ký thông tin cá nhân bên dưới và kê khai thông tin trên phiếu.
 
-- Nộp phiếu tại điểm tiếp nhận (theo quy định và hướng dẫn của sở giáo dục và đào tạo nơi thí sinh thường trú) để nhận thông tin tài khoản phục vụ công tác tuyển sinh. 
+- Nộp phiếu tại điểm tiếp nhận (trung tâm GDTX hoặc sở GD nơi bạn sống) để nhận thông tin tài khoản phục vụ công tác tuyển sinh. 
+
+- Mục Xác nhận người kê khai phiếu: thí sinh đến xã, phường để xin đóng mộc.
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656217473827/puCtUzQvw.png align="left")
+
+### II. File phiếu (tải về)
 
 👉 File phiếu đăng ký: [Nhấn vào đây để tải về !](https://drive.google.com/file/d/1ut36w7zBqSr7HsrrWD31ql_FVwJ2Qi7-/view?usp=sharing)
 
