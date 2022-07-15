@@ -12,6 +12,10 @@
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657885971266/-x-pRVZWJ.png align="center")
 
+**❗ Lưu ý: thứ tự ưu tiên xét tuyển **
+
+Phương thức 4 (Ưu tiên xét tuyển Học sinh Giỏi) ➡ Phương thức 5 (Ưu tiên xét tuyển học bạ có chứng chỉ ngoại ngữ quốc tế) ➡ Phương thức 6 (Xét tuyển theo kết quả học tập THPT)
+
 📝 **Ghi chú:**
 
 - Dấu x: các phương thức xét tuyển có **dấu x** không được áp dụng cho ngành này, các ngành chỉ có điểm hoặc để trống vui lòng đọc cột** Ghi chú**
