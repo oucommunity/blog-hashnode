@@ -12,8 +12,9 @@
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657885971266/-x-pRVZWJ.png align="center")
 
-Ghi chú:
+📝 **Ghi chú:**
 
+- dấu x: các phương thức xét tuyển có **dấu x** không được áp dụng cho ngành này, các ngành chỉ có điểm hoặc để trống vui lòng đọc cột** Ghi chú**
 - (1): Chỉ xét Học sinh Giỏi (PT4) theo mức điểm.
 
 - (2): Nhận tất cả Học sinh Giỏi (PT4) đủ điều kiện xét tuyển.
