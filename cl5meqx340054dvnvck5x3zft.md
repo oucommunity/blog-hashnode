@@ -56,7 +56,7 @@ Nếu có thắc mắc, thí sinh vui lòng liên hệ số điện thoại hotl
 
 ### III. Thông tin kết quả trúng tuyển
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657899303774/1zWzhqCOv.png align="center")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657904514271/r2d0Cu2Mo.png align="left")
 
 📝 **Giải thích thông tin xét tuyển:**
 - **Mã phương thức xét tuyển:** Phương thức xét tuyển khi đăng ký xét tuyển online
@@ -65,6 +65,10 @@ Nếu có thắc mắc, thí sinh vui lòng liên hệ số điện thoại hotl
 
 - **Loại xét tuyển:**	Tên phương thức xét tuyển online
 - **Ngành xét tuyển:** Tên ngành đã đăng ký xét tuyển
+- **Điểm môn 1, 2, 3**: điểm theo thứ tự từ trái sang phải trong phiếu đăng ký online (sẽ hiện thị nếu xét PT học bạ)
+- **Chứng chỉ ngoại ngữ**: có tick vào ô khi đăng ký online
+- **Điểm chứng chỉ ngoại ngữ**: có tick chọn mục đăng ký bằng chứng chỉ ngoại ngữ
+- **Học tăng cường ngoại ngữ**: có tick chọn học tăng cường khi đăng ký online
 - **Đối tượng:** Đối tượng ưu tiên
 - **Khu vực:** Khu vực ưu tiên
 - **Mã số sinh viên:**	mã số được cấp khi trúng tuyển (không hiển thị)
