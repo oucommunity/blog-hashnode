@@ -103,7 +103,7 @@ Nếu có thắc mắc, thí sinh vui lòng liên hệ số điện thoại hotl
 
 ### VI. Lưu ý quan trọng
 
-📌 Sau đây là những lưu ý **RẤT QUAN TRỌNG**, ảnh hưởng trực tiếp đến kết quả trúng tuyển và nhập học của thí sinh. Do đó, thí sinh vui lòng đọc kỹ các lưu ý sau:
+> Sau đây là những lưu ý **RẤT QUAN TRỌNG**, ảnh hưởng trực tiếp đến kết quả trúng tuyển và nhập học của thí sinh. Do đó, thí sinh vui lòng đọc kỹ các lưu ý sau:
 
 #### 📝 Lưu ý 1
 
@@ -113,9 +113,11 @@ Nếu có thắc mắc, thí sinh vui lòng liên hệ số điện thoại hotl
 
 Các thí sinh có kết quả trúng tuyển (có điều kiện: Tốt nghiệp THPT) thực hiện các công việc sau:
 
-##### 1. Đăng ký và sắp xếp nguyện vọng đã trúng tuyển
+##### **1. Đăng ký và sắp xếp nguyện vọng đã trúng tuyển**
 
-📌 Đăng ký và sắp xếp nguyện vọng đã trúng tuyển (Có điều kiện) lên Cổng tuyển sinh của Bộ GD&ĐT đúng ngành học, tổ hợp và mã phương thức tuyển sinh (tham khảo trong phần tra cứu kết quả xét tuyển), ưu tiên sắp xếp ở nguyện vọng cao nhất (nguyện vọng 1) để chắc chắn trúng tuyển. Nếu không thực hiện việc đăng ký và sắp xếp nguyện vọng, đồng nghĩa với việc thí sinh từ chối kết quả trúng tuyển và Trường Đại học Mở Tp.HCM không giải quyết khiếu nại về sau.
+Đăng ký và sắp xếp nguyện vọng đã trúng tuyển (Có điều kiện) lên Cổng tuyển sinh của Bộ GD&ĐT đúng ngành học, tổ hợp và mã phương thức tuyển sinh (tham khảo trong phần tra cứu kết quả xét tuyển), ưu tiên sắp xếp ở nguyện vọng cao nhất (nguyện vọng 1) để chắc chắn trúng tuyển.
+
+Nếu không thực hiện việc đăng ký và sắp xếp nguyện vọng, đồng nghĩa với việc thí sinh từ chối kết quả trúng tuyển và Trường Đại học Mở Tp.HCM không giải quyết khiếu nại về sau.
 
 - Thời gian thực hiện: từ ngày 22/7/2022 đến 17h00 ngày 20/8/2022
 
@@ -123,17 +125,17 @@ Ví dụ: Thí sinh A trúng tuyển (có điều kiện) **ngành 7220201 - Ng�
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657886064172/9Uv5aGteg.png align="center")
 
-##### 2. Sử dụng thống nhất CCCD hoặc CMND
+##### **2. Sử dụng thống nhất CCCD hoặc CMND**
 
-📌 Sử dụng thống nhất CCCD hoặc CMND ở cả Cổng thông tin tuyển sinh của Bộ GD&ĐT và hệ thống đăng ký xét tuyển của nhà trường. (Kết quả xét tuyển sẽ được Nhà trường tải lên Cổng thông tin Tuyển sinh của Bộ GD&ĐT theo CCCD/CMND đã đăng ký trên Hệ thống xét tuyển của trường để thí sinh đăng ký và sắp xếp các nguyện vọng).
+Sử dụng thống nhất CCCD hoặc CMND ở cả Cổng thông tin tuyển sinh của Bộ GD&ĐT và hệ thống đăng ký xét tuyển của nhà trường. (Kết quả xét tuyển sẽ được Nhà trường tải lên Cổng thông tin Tuyển sinh của Bộ GD&ĐT theo CCCD/CMND đã đăng ký trên Hệ thống xét tuyển của trường để thí sinh đăng ký và sắp xếp các nguyện vọng).
 
 - Trường hợp thí sinh cần điều chỉnh lại CMND sang CCCD (hoặc ngược lại) trên hệ thống xét tuyển của trường để thống nhất với CCCD/CMND đã sử dụng trên Công thông tin xét tuyển của Bộ GD&ĐT, thực hiện cập nhật trong phần tra cứu kết quả (thực hiện đến trước 17g00 ngày 20/7). Các trường hợp điều chỉnh CMND/CCCD khác đều không được chấp nhận.
 
 - Ngoài thông tin CCCD/CMND, thông tin Họ tên, ngày sinh và giới tính phải trùng khớp giữa hệ thống đăng ký xét tuyển của Trường và Cổng tuyển sinh của BGD&ĐT. Các trường hợp có sai sót, không đồng nhất do thí sinh nhập liệu nhà trường sẽ không cập nhật được dữ liệu, thí sinh sẽ không đăng ký và sắp xếp được nguyện vọng đã trúng tuyển trên Cổng thông tin tuyển sinh của Bộ GD&ĐT đồng nghĩa với việc từ chối kết quả xét tuyển.
 
-##### 3. Thí sinh tự do
+##### **3. Thí sinh tự do**
 
-📌 Đối với thí sinh đã tốt nghiệp THPT, trung cấp các năm trước (thí sinh tự do) phải đăng ký tài khoản trên Cổng thông tin tuyển sinh của BGD&ĐT để được cấp tài khoản sử dụng cho việc đăng ký nguyện vọng xét tuyển (đăng ký bổ sung từ ngày 12/7 đến 18/7/2022).
+Đối với thí sinh đã tốt nghiệp THPT, trung cấp các năm trước (thí sinh tự do) phải đăng ký tài khoản trên Cổng thông tin tuyển sinh của BGD&ĐT để được cấp tài khoản sử dụng cho việc đăng ký nguyện vọng xét tuyển (đăng ký bổ sung từ ngày 12/7 đến 18/7/2022).
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657886091913/JarrJ3HVG.png align="center")
 
