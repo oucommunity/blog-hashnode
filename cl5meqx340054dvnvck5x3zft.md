@@ -10,7 +10,7 @@
 
 ### I. Điểm chuẩn học bạ
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657885971266/-x-pRVZWJ.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657885971266/-x-pRVZWJ.png align="center")
 
 Ghi chú:
 
@@ -40,18 +40,17 @@ Nếu có thắc mắc thí sinh vui lòng liên hệ số điện thoại hỗ 
 
 ### II. Hướng dẫn tra cứu
 
-
-👉 Truy cập [Tra cứu kết quả xét tuyển](https://xettuyen.ou.edu.vn/hb2022d1/ketqua) để tiến hành tra cứu thông tin **(tra cứu sau 19g30)**
+👉 Truy cập [Tra cứu kết quả xét tuyển](https://xettuyen.ou.edu.vn/hb2022d1/ketqua) để tiến hành tra cứu thông tin
 
 🙇‍♂️ Nhập CMND/CCCD/Mã định danh mà bạn đã đăng ký xét tuyển online và tick vào ô **Tôi không phải là người máy**, sau đó ấn tiếp tục.
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656609149287/CI9rxF99Q.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656609149287/CI9rxF99Q.png align="center")
 
 🎉 Nếu hiện thị ra kết quả thì chúc mừng bạn đã đủ điều kiện để nhập học tại Trường sau khi chờ dữ liệu được đưa lên website của Bộ GD&ĐT.
 
 ### III. Thông tin kết quả trúng tuyển
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656610143775/jr9t4AiaA.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656610143775/jr9t4AiaA.png align="center")
 
 📝 **Giải thích thông tin xét tuyển:**
 - **Loại xét tuyển:** Phương thức xét tuyển khi đăng ký xét tuyển online.
@@ -70,7 +69,7 @@ Nếu có thắc mắc thí sinh vui lòng liên hệ số điện thoại hỗ 
 
 📌 **Phiếu đăng ký xét tuyển** cũng là 1 phần cần có trong hồ sơ nhập học tại Trường, bạn ấn nút in để tải phiếu về và tiến hành in ra để đính kèm trong hồ sơ khi nhà Trường yêu cầu nộp 👇
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657738752139/xNVaU7AKc.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657738752139/xNVaU7AKc.png align="center")
 
 ### IV. Học bổng tuyển sinh
 
@@ -87,13 +86,13 @@ Nếu có thắc mắc thí sinh vui lòng liên hệ số điện thoại hỗ 
 
 ### V. Lưu ý quan trọng
 
-📌 Sau đây là những lưu ý RẤT QUAN TRỌNG, ảnh hưởng trực tiếp đến kết quả trúng tuyển và nhập học của thí sinh. Do đó, thí sinh vui lòng đọc kỹ các lưu ý sau:
+📌 Sau đây là những lưu ý **RẤT QUAN TRỌNG**, ảnh hưởng trực tiếp đến kết quả trúng tuyển và nhập học của thí sinh. Do đó, thí sinh vui lòng đọc kỹ các lưu ý sau:
 
-#### Lưu ý 1
+#### 📝 Lưu ý 1
 
-📌 Thí sinh chịu hoàn toàn trách nhiệm với những thông tin đã khai báo khi đăng ký xét tuyển. Sau khi thí sinh làm thủ tục Nhập học (dự kiến từ 18 – 30/09) nhà trường sẽ tiến hành Hậu kiểm hồ sơ. Trường hợp có bất kỳ sai sót (thông tin cá nhân, điểm, ưu tiên…), nhà trường sẽ ra quyết định kỷ luật và buộc thí sinh thôi học.
+📌 Thí sinh chịu hoàn toàn trách nhiệm với những thông tin đã khai báo khi đăng ký xét tuyển. Sau khi thí sinh làm thủ tục Nhập học (dự kiến từ 18 – 30/09) nhà trường sẽ tiến hành **Hậu kiểm hồ sơ**. Trường hợp có bất kỳ sai sót (thông tin cá nhân, điểm, ưu tiên…), nhà trường sẽ ra quyết định kỷ luật và buộc thí sinh thôi học.
 
-#### Lưu ý 2
+#### 📝 Lưu ý 2
 
 📌 Các thí sinh có kết quả trúng tuyển (có điều kiện: Tốt nghiệp THPT) thực hiện các công việc sau:
 
@@ -103,7 +102,7 @@ i. Đăng ký và sắp xếp nguyện vọng đã trúng tuyển (Có điều k
 
 Ví dụ: Thí sinh A trúng tuyển (có điều kiện) ngành 7220201 - Ngành Ngôn ngữ Anh , theo mã phương thức 200 - xét tuyển kết quả học tập cấp THPT (học bạ), tổ hợp xét tuyển là hưởng D01 của Trường Đại học Mở Tp.HCM . Thí sinh xếp vào nguyện vọng ưu tiên cao nhất (nguyện vọng 1) thì khi hệ thống của Bộ Giáo dục và Đào tạo chạy lọc ảo, chắc chắn thí sinh trúng tuyển ngành 7220201 – Ngôn ngữ Anh của Trường Đại học Mở Tp.HCM. Cụ thể như sau:
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657886064172/9Uv5aGteg.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657886064172/9Uv5aGteg.png align="center")
 
  ii. Sử dụng thống nhất CCCD hoặc CMND ở cả Cổng thông tin tuyển sinh của Bộ GD&ĐT và hệ thống đăng ký xét tuyển của nhà trường. (Kết quả xét tuyển sẽ được Nhà trường tải lên Cổng thông tin TS của BGD&ĐT theo CCCD/CMND đã đăng ký trên Hệ thống xét tuyển của trường để thí sinh đăng ký và sắp xếp các nguyện vọng).
 
@@ -113,8 +112,7 @@ Ví dụ: Thí sinh A trúng tuyển (có điều kiện) ngành 7220201 - Ngàn
 
 iii. Đối với thí sinh đã tốt nghiệp THPT, trung cấp các năm trước (thí sinh tự do) phải đăng ký tài khoản trên Cổng thông tin tuyển sinh của BGD&ĐT để được cấp tài khoản sử dụng cho việc đăng ký nguyện vọng xét tuyển (đăng ký bổ sung từ ngày 12/7 đến 18/7/2022).
 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657886091913/JarrJ3HVG.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657886091913/JarrJ3HVG.png align="center")
 
 ### VI. Tham khảo thêm
 
