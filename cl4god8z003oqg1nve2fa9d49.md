@@ -43,6 +43,10 @@ Should, could, might, must  + have + V3/ed ( diễn tả việc đáng lẽ nên
 
 Test 3,4 (60 phút mỗi test) là mở rộng thêm tí của test 2
 
+Cre: Trần ĐạtK - Sinh viên Đại Học Mở Tp.HCM - HCMCOU
+
+🔗 Link: https://www.facebook.com/groups/oumembers/posts/1080016299081644/
+
 ---
 
 ❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
@@ -52,6 +56,8 @@ Test 3,4 (60 phút mỗi test) là mở rộng thêm tí của test 2
 **🌐 Trang tin tức Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
 
 **🌐 Website tổng hợp thông tin tuyển sinh: **https://www.oucommunity.dev/
+
+**📔 Sổ tay hướng dẫn tuyển sinh: **https://sotaytuyensinh.oucommunity.dev/
 
 ---
 
