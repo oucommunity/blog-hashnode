@@ -145,7 +145,7 @@ Các thí sinh có kết quả trúng tuyển (có điều kiện: Tốt nghiệ
 
 Đối với thí sinh đã tốt nghiệp THPT, trung cấp các năm trước (thí sinh tự do) phải đăng ký tài khoản trên [Cổng thông tin tuyển sinh của Bộ GD&ĐT](https://thisinh.thithptquocgia.edu.vn/) để được cấp tài khoản sử dụng cho việc đăng ký nguyện vọng xét tuyển (đăng ký bổ sung từ ngày 12/7 đến 18/7/2022).
 
-👉 Cách đăng ký tài khoản dành cho thí sinh tự do: [Ấn vào đây !] (https://tintuc.oucommunity.dev/dang-ky-tai-khoan-tren-he-thong-quan-ly-thi-cua-bo-gd-va-dt-dot-bo-sung) 
+👉 Cách đăng ký tài khoản dành cho thí sinh tự do: [Ấn vào đây !](https://tintuc.oucommunity.dev/dang-ky-tai-khoan-tren-he-thong-quan-ly-thi-cua-bo-gd-va-dt-dot-bo-sung)
 
 ### VII. Tham khảo thêm
 
