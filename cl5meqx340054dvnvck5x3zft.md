@@ -105,6 +105,8 @@ Nếu có thắc mắc, thí sinh vui lòng liên hệ số điện thoại hotl
 
 📌 Chỉ sử dụng trong trường hợp cần điều chỉnh lại CMND sang CCCD (hoặc ngược lại) trên hệ thống xét tuyển của trường để thống nhất với CCCD/CMND đã sử dụng trên Cổng thông tin xét tuyển của Bộ GD&ĐT (cập nhật đến trước 17g00 ngày 20/7). Các trường hợp điều chỉnh CMND/CCCD khác đều không được chấp nhận.
 
+👉 Thí sinh truy cập vào website [Tra cứu kết quả xét tuyển](https://xettuyen.ou.edu.vn/hb2022d1/ketqua) sau đó nhập mã CMND/CCCD/MĐD. Sau khi hiển thị kết quả trúng tuyển (đủ điều kiện) thì lướt xuống dưới cùng để tiến hành bổ sung
+
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657900028379/iBl6jaHB3.png align="center")
 
 ### VI. Lưu ý quan trọng
