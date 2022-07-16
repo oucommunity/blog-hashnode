@@ -69,7 +69,7 @@ Nếu có thắc mắc, thí sinh vui lòng liên hệ số điện thoại hotl
 - **Học tăng cường ngoại ngữ**: có tick chọn học tăng cường khi đăng ký online
 - **Đối tượng:** Đối tượng ưu tiên
 - **Khu vực:** Khu vực ưu tiên
-- **Mã số sinh viên:**	mã số được cấp khi trúng tuyển (không hiển thị)
+- **Mã số sinh viên:**	mã số được cấp khi nhập học **(không hiển thị)**
 - **Tổ hợp xét tuyển:** tên tổ hợp xét tuyển.
 - **Loại học bổng**: có hoặc không, khi đủ điều kiện sẽ hiện thị mục **"loại học bổng"**.
 - **Kết quả:** xác nhận đã đủ điều kiện.
@@ -145,6 +145,8 @@ Các thí sinh có kết quả trúng tuyển (có điều kiện: Tốt nghiệ
 
 Đối với thí sinh đã tốt nghiệp THPT, trung cấp các năm trước (thí sinh tự do) phải đăng ký tài khoản trên [Cổng thông tin tuyển sinh của Bộ GD&ĐT](https://thisinh.thithptquocgia.edu.vn/) để được cấp tài khoản sử dụng cho việc đăng ký nguyện vọng xét tuyển (đăng ký bổ sung từ ngày 12/7 đến 18/7/2022).
 
+👉 Cách đăng ký tài khoản dành cho thí sinh tự do: [Ấn vào đây !] (https://tintuc.oucommunity.dev/dang-ky-tai-khoan-tren-he-thong-quan-ly-thi-cua-bo-gd-va-dt-dot-bo-sung) 
+
 ### VII. Tham khảo thêm
 
 📌 Thông tin chuẩn bị hồ sơ nhập học sẽ **được thông báo sau**, thí sinh có thể tham khảo các giấy tờ cần chuẩn bị trong hồ sơ 👉 [Ấn vào đây để tham khảo !](https://tintuc.oucommunity.dev/cac-giay-to-can-chuan-bi-trong-ho-so-nhap-hoc)
@@ -170,5 +172,7 @@ Các thí sinh có kết quả trúng tuyển (có điều kiện: Tốt nghiệ
 **🌐 Trang tin tức Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
 
 **🌐 Website tổng hợp thông tin tuyển sinh: **https://www.oucommunity.dev/
+
+**📒 Sổ tay hướng dẫn tuyển sinh: **https://sotaytuyensinh.oucommunity.dev/
 
 ---
