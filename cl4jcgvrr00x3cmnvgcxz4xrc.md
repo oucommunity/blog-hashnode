@@ -37,9 +37,13 @@ Ví dụ:
 
 ### II. Danh sách ngành tuyển sinh
 
+#### 1. Chương trình đại trà
+
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658035877409/P62ze_GKU.png align="center")
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658035902499/CBSqUvXKg.png align="center")
+
+#### 2. Chương trình chất lượng cao
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658035914290/rSm2YhlHm.png align="center")
 
@@ -54,6 +58,8 @@ Ví dụ:
 -  Các ngành Ngôn ngữ Trung Quốc (đại trà, chất lượng cao), Ngôn ngữ Nhật (đại trà, chất lượng cao), Ngôn ngữ Hàn Quốc, Đông Nam á học, Công tác xã hội, Xã hội học: Ngoại ngữ gồm Anh, Nga, Pháp, Đức, Nhật, Trung, Hàn Quốc.
 
 - Các ngành Luật và Luật kinh tế, ngoại ngữ gồm Anh, Pháp, Đức, Nhật.
+
+#### 3. Điểm quy đổi môn ngoại ngữ
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658035936464/5cd-bOM9Q.png align="center")
 
