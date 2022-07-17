@@ -18,7 +18,7 @@
 
 ### I. Cách tính điểm thủ công
 
-📌 Thí sinh kiểm tra xem ngành xét gồm những môn nào, có hệ số 2 hay không. 
+📌 Thí sinh kiểm tra xem ngành xét gồm những môn nào, có hệ số 2 hay không** (tra cứu ở mục II)**. 
 
 - Nếu ngành bạn không có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
 
@@ -35,7 +35,29 @@ Ví dụ:
 
 👉 Tham khảo điểm cộng đối tượng ưu tiên: [Nhấn vào đây !](https://sotaytuyensinh.oucommunity.dev/huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/doi-tuong-uu-tien)
 
-### II. Hướng dẫn sử dụng công cụ tính điểm
+### II. Danh sách ngành tuyển sinh
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658035877409/P62ze_GKU.png align="center")
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658035902499/CBSqUvXKg.png align="center")
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658035914290/rSm2YhlHm.png align="center")
+
+📝 **Ghi chú:**
+
+(1) Môn Ngoại ngữ hệ số 2;
+
+(2) Điểm trúng tuyển tổ hợp Văn, Sử, Địa cao hơn các tổ hợp còn lại 1.5 điểm;
+
+(3) Môn Toán hệ số 2;
+
+-  Các ngành Ngôn ngữ Trung Quốc (đại trà, chất lượng cao), Ngôn ngữ Nhật (đại trà, chất lượng cao), Ngôn ngữ Hàn Quốc, Đông Nam á học, Công tác xã hội, Xã hội học: Ngoại ngữ gồm Anh, Nga, Pháp, Đức, Nhật, Trung, Hàn Quốc.
+
+- Các ngành Luật và Luật kinh tế, ngoại ngữ gồm Anh, Pháp, Đức, Nhật.
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658035936464/5cd-bOM9Q.png align="center")
+
+### III. Hướng dẫn sử dụng công cụ tính điểm
 
 #### 1. Giới thiệu
 
@@ -83,6 +105,8 @@ Ví dụ: Bạn xét CNNT khối A00 (toán - lý - hoá) với điểm toán l�
 **🌐 Trang tin tức Sinh viên Đại học Mở Tp.HCM: **https://tintuc.oucommunity.dev/
 
 **🌐 Website tổng hợp thông tin tuyển sinh: **https://www.oucommunity.dev/
+
+**📔 Sổ tay hướng dẫn tuyển sinh: **https://sotaytuyensinh.oucommunity.dev/
 
 ---
 
