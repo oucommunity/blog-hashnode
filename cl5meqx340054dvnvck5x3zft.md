@@ -137,7 +137,7 @@ Các thí sinh có kết quả trúng tuyển (có điều kiện: Tốt nghiệ
 
 **Sử dụng thống nhất CCCD hoặc CMND ở cả Cổng thông tin tuyển sinh của Bộ GD&ĐT và hệ thống đăng ký xét tuyển của nhà trường**. (Kết quả xét tuyển sẽ được Nhà trường tải lên Cổng thông tin Tuyển sinh của Bộ GD&ĐT theo CCCD/CMND đã đăng ký trên Hệ thống xét tuyển của trường để thí sinh đăng ký và sắp xếp các nguyện vọng).
 
-- Trường hợp thí sinh cần điều chỉnh lại CMND sang CCCD (hoặc ngược lại) trên hệ thống xét tuyển của trường để thống nhất với CCCD/CMND đã sử dụng trên Công thông tin xét tuyển của Bộ GD&ĐT, thực hiện cập nhật trong phần [tra cứu kết quả](https://xettuyen.ou.edu.vn/hb2022d1/ketqua) **(thực hiện đến trước 17g00 ngày 20/7)**. Các trường hợp điều chỉnh CMND/CCCD khác đều không được chấp nhận.
+- Trường hợp thí sinh cần điều chỉnh lại CMND sang CCCD (hoặc ngược lại) trên hệ thống xét tuyển của trường để thống nhất với CCCD/CMND đã sử dụng trên Cổng thông tin xét tuyển của Bộ GD&ĐT, thực hiện cập nhật trong phần [tra cứu kết quả](https://xettuyen.ou.edu.vn/hb2022d1/ketqua) **(thực hiện đến trước 17g00 ngày 20/7)**. Các trường hợp điều chỉnh CMND/CCCD khác đều không được chấp nhận.
 
 - Ngoài thông tin CCCD/CMND, thông tin **Họ tên, ngày sinh và giới tính phải trùng khớp giữa hệ thống đăng ký xét tuyển của Trường và Cổng tuyển sinh của Bộ GD&ĐT**. Các trường hợp có sai sót, không đồng nhất do thí sinh nhập liệu nhà trường sẽ không cập nhật được dữ liệu, thí sinh sẽ không đăng ký và sắp xếp được nguyện vọng đã trúng tuyển trên Cổng thông tin tuyển sinh của Bộ GD&ĐT đồng nghĩa với việc từ chối kết quả xét tuyển.
 
