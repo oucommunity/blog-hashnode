@@ -175,4 +175,4 @@ Thí sinh nhấn vào **Lịch sử giao dịch** để xem giao dịch
 
 **📒 Sổ tay hướng dẫn tuyển sinh: **https://sotaytuyensinh.oucommunity.dev/
 
----https://docs.google.com/document/d/1EHvzfIPN9JK5FvBOjlRU1yH8cjn1jc8Y/edit?usp=sharing&ouid=110437073600430178198&rtpof=true&sd=true
+---
