@@ -1,4 +1,4 @@
-## Tính điểm xét tuyển học bạ THPT
+## Tính điểm xét tuyển học bạ THPT & thi THPTQG
 
 > ❗ Lưu ý: 
 
@@ -20,14 +20,51 @@
 
 📌 Thí sinh kiểm tra xem ngành xét gồm những môn nào, có hệ số 2 hay không** (tra cứu ở mục II)**. 
 
+#### 📚 Xét học bạ
+
 - Nếu ngành bạn không có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
 
-- Nếu có môn nào hệ số 2 thì bạn áp dụng công thức** (môn 1 + môn 2 + môn 3 x2) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên **
+- Nếu có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3 x2) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
 
-Ví dụ: 
-- Ngành CNTT xét tổ hợp toán lý hoá (A00), ngành này môn toán hệ số 2 nên ta tính (toán x2 + lý + hoá) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên
+**Ví dụ:**
 
-- Ngành Du lịch xét tổ hợp toán văn anh, ngành này không có môn nào hệ số 2 nên chỉ cần (toán + văn + anh) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên
+- Ngành CNTT xét tổ hợp toán lý hoá (A00), ngành này môn toán hệ số 2 nên ta tính **(toán x2 + lý + hoá) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
+
+- Ngành Du lịch xét tổ hợp toán văn anh, ngành này không có môn nào hệ số 2 nên chỉ cần **(toán + văn + anh) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
+
+#### 📚 Xét thi THPTQG
+
+- Nếu ngành bạn không có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3) **
+
+- Nếu có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3 x2) x3/4**
+
+**Ví dụ:**
+
+- Ngành CNTT xét tổ hợp toán lý hoá (A00), ngành này môn toán hệ số 2 nên ta tính **(toán x2 + lý + hoá) x3/4**
+
+- Ngành Du lịch xét tổ hợp toán văn anh, ngành này không có môn nào hệ số 2 nên chỉ cần **(toán + văn + anh)**
+
+❗ Lưu ý:
+
+- Xét thi THPTQG không sử dụng điểm vùng
+
+- Lệ phí xét thi THPTQG là 20.000đ/1 nguyện vọng
+
+- Có sử dụng CCNN (Chứng chỉ ngoại ngữ) để quy đổi điểm ngoại ngữ
+
+- Không sử dụng điểm bảo lưu Kỳ thi tốt nghiệp THPT Quốc gia từ năm 2021 về trước
+
+#### Bảng quy đổi điểm thi THPTQG
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658812200689/ZPG-5mq8b.png align="center")
+
+**Ghi chú:**
+
+- Các chứng chỉ Ngoại ngữ trong thông báo này phải còn thời hạn trong vòng 2 năm tính từ ngày dự thi chứng chỉ đến ngày nhận hồ sơ xét tuyển.
+
+- Thí sinh gởi bản sao CCNN về phòng Quản lý đào tạo, trường ĐH Mở Tp.HCM **(số 35-37 Hồ Hảo Hớn, P.Cô Giang, Q.1, Tp.HCM)** để được nhà trường nhập điểm quy đổi ngoại ngữ lên Cổng TT tuyển sinh của BGD&ĐT (ghi kèm thông tin CCCD/CMND đã đăng ký trên Cổng TTTS BGD&ĐT và số điên thoại liên lạc)
+
+----
 
 📌 Cách tính thủ công này chỉ giúp bạn tính 1 tổ hợp duy nhất và khá tốn thời gian, công cụ bên dưới sẽ giúp bạn tính toàn bộ các tổ hợp, có thể biết được tổ hợp nào cao nhất, thấp nhất => Từ đó giúp bạn chọn được tổ hợp có lợi cho bạn
 
@@ -80,7 +117,7 @@ Ví dụ:
 
 ![5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656915659231/NUbFA1lg1.png align="left")
 
-📌 Trong trường hợp bạn xét bằng điểm thi THPTQG, nếu bạn xét tổ hợp môn nào thì bạn nhập điểm môn đó (giống nhau) vào cột cả năm 10, 11 và hk1 năm 12. Sau đó tiếp tục đến bước 3 như trong hình bên dưới.
+📌 Trong trường hợp bạn xét bằng điểm thi THPTQG, nếu bạn xét tổ hợp môn nào thì bạn nhập điểm môn đó (giống nhau) vào cột cả năm 10, 11 và hk1 năm 12. Sau đó tiếp tục đến **bước 3** như trong hình bên dưới.
 
 Ví dụ: Bạn xét CNNT khối A00 (toán - lý - hoá) với điểm toán là 9, hoá 8, lý 9. Thì bạn nhập điểm môn toán vào 3 cột gồm cột cả năm 10, 11 & hk1 năm 12 với số điểm là 9. Tương tự cho 2 môn còn lại.
 
