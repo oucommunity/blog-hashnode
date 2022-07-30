@@ -46,8 +46,6 @@
 
 ❗ Lưu ý:
 
-- Xét thi THPTQG không sử dụng điểm vùng
-
 - Lệ phí xét thi THPTQG là 20.000đ/1 nguyện vọng
 
 - Có sử dụng CCNN (Chứng chỉ ngoại ngữ) để quy đổi điểm ngoại ngữ
