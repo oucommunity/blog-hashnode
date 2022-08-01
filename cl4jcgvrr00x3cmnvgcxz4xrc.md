@@ -34,15 +34,15 @@
 
 #### 📚 Xét thi THPTQG
 
-- Nếu ngành bạn không có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3) **
+- Nếu ngành bạn không có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên **
 
-- Nếu có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3 x2) x3/4**
+- Nếu có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3 x2) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
 
 **Ví dụ:**
 
-- Ngành CNTT xét tổ hợp toán lý hoá (A00), ngành này môn toán hệ số 2 nên ta tính **(toán x2 + lý + hoá) x3/4**
+- Ngành CNTT xét tổ hợp toán lý hoá (A00), ngành này môn toán hệ số 2 nên ta tính **(toán x2 + lý + hoá) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
 
-- Ngành Du lịch xét tổ hợp toán văn anh, ngành này không có môn nào hệ số 2 nên chỉ cần **(toán + văn + anh)**
+- Ngành Du lịch xét tổ hợp toán văn anh, ngành này không có môn nào hệ số 2 nên chỉ cần **(toán + văn + anh) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
 
 ❗ Lưu ý:
 
