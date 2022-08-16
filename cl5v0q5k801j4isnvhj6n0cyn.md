@@ -140,7 +140,7 @@ Sau đó nhập mã xác thực được gửi về điện thoại rồi nhấn
 
 #### 7. Thanh toán
 
-Thí sinh xem trong tài liệu HDSD_ThanhToanTrucTuyen
+Thí sinh xem trong tài liệu HDSD_ThanhToanTrucTuyen: [Ấn xem tại đây !](https://drive.google.com/drive/folders/1CySa384YQWkAEHZhlfW7p0lSwniOV-ct?usp=sharing)
 
 #### 8. In biên lai
 
