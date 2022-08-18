@@ -20,6 +20,8 @@
 
 💰 Thời gian đóng học phí: 03/10 -> 04/11
 
+👉 Hướng dẫn thanh toán học phí: [Xem tại đây !](https://tintuc.oucommunity.dev/huong-dan-thanh-toan-qua-cac-kenh-truc-tiep-and-internet-banking)
+
 ---
 
 ❓ Nếu bạn có câu hỏi hay thắc mắc, bên phải có icon tin nhắn để bạn comment (nếu sử dụng máy tính) hoặc lăn xuống phía dưới cùng để comment nhé !
