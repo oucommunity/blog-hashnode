@@ -1,4 +1,4 @@
-## Cần chuẩn bị gì trước khi đăng ký xét học bạ online ?
+# Cần chuẩn bị gì trước khi đăng ký xét học bạ online ?
 
 > ❗ Lưu ý: 
 
