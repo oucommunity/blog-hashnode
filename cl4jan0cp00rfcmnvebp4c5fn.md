@@ -1,4 +1,4 @@
-## Ngành ngôn ngữ Anh tại Đại học Mở Tp.HCM
+# Ngành ngôn ngữ Anh tại Đại học Mở Tp.HCM
 
 > ❗ Lưu ý: 
 
