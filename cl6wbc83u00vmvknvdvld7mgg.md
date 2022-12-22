@@ -1,4 +1,4 @@
-## 📢 Kế hoạch đăng ký môn học Học kỳ 1 năm học 2022 - 2023
+# 📢 Kế hoạch đăng ký môn học Học kỳ 1 năm học 2022 - 2023
 
 > ❗ Lưu ý: 
 
