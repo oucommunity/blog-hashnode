@@ -1,4 +1,4 @@
-## Hướng dẫn đăng ký nguyện vọng trên Cổng thông tin Bộ GD&ĐT
+# Hướng dẫn đăng ký nguyện vọng trên Cổng thông tin Bộ GD&ĐT
 
 > ❗ Lưu ý: 
 
