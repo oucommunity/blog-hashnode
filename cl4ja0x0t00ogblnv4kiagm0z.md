@@ -1,4 +1,4 @@
-## Góc nhìn về Đại học Mở từ 1 sinh viên năm nhất
+# Góc nhìn về Đại học Mở từ 1 sinh viên năm nhất
 
 > ❗ Lưu ý: 
 
