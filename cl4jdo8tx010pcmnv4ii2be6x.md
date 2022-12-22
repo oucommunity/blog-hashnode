@@ -1,4 +1,4 @@
-## Các giấy tờ cần chuẩn bị trong hồ sơ nhập học
+# Các giấy tờ cần chuẩn bị trong hồ sơ nhập học
 
 > ❗ Lưu ý: 
 
