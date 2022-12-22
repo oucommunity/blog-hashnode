@@ -1,4 +1,4 @@
-## Cần chuẩn bị gì khi đi quân sự ?
+# Cần chuẩn bị gì khi đi quân sự ?
 
 > ❗ Lưu ý: 
 
