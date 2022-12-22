@@ -1,4 +1,4 @@
-## Notion Personal Pro - Xài Free Nhờ Có Mail Trường
+# Notion Personal Pro - Xài Free Nhờ Có Mail Trường
 
 > ❗ Lưu ý: 
 
