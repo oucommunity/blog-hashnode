@@ -1,4 +1,4 @@
-## Xác nhận nhập học là gì ?
+# Xác nhận nhập học là gì ?
 
 > ❗ Lưu ý: 
 
