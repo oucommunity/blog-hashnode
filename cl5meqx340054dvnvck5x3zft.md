@@ -1,4 +1,4 @@
-## Kết quả xét tuyển học bạ đủ điều kiện điểm - Đại học Mở Tp.HCM
+# Kết quả xét tuyển học bạ đủ điều kiện điểm - Đại học Mở Tp.HCM
 
 > ❗ Lưu ý: 
 
