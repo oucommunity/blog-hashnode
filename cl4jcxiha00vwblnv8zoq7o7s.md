@@ -1,4 +1,4 @@
-## Giới thiệu Ngành - Chuyên ngành đào tạo - Cơ hội việc làm ở Trường ĐH Mở Tp.HCM
+# Giới thiệu Ngành - Chuyên ngành đào tạo - Cơ hội việc làm ở Trường ĐH Mở Tp.HCM
 
 > ❗ Lưu ý: 
 
