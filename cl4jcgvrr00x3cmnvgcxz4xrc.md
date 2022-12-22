@@ -1,4 +1,4 @@
-## Tính điểm xét tuyển học bạ THPT & thi THPTQG
+# Tính điểm xét tuyển học bạ THPT & thi THPTQG
 
 > ❗ Lưu ý: 
 
