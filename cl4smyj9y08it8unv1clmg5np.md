@@ -1,4 +1,4 @@
-## Hướng dẫn Đăng ký môn học
+# Hướng dẫn Đăng ký môn học
 
 > ❗ Lưu ý: 
 
