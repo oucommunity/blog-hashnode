@@ -1,4 +1,4 @@
-## 📢 Kế hoạch đăng ký môn học Học kỳ 3 năm học 2021-2022
+# 📢 Kế hoạch đăng ký môn học Học kỳ 3 năm học 2021-2022
 
 > ❗ Lưu ý: 
 
